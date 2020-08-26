@@ -1,0 +1,82 @@
+PL/SQL Developer Report
+
+[SQL]
+select * from v$parameter
+where upper(name) like &<name="Name"
+                         type="string"
+                         default="%"
+                         ifempty="%"
+                         uppercase="yes"
+                         hint="The name of the initialization parameter(s)">
+and upper(description) like &<name="Description"
+                              type="string"
+                              default="%"
+                              ifempty="%"
+                              uppercase="yes"
+                              hint="The description of the initialization parameter(s)">
+
+[Options]
+Connect=False
+Username=
+Password=2393
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2496
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Initialization Parameters
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+
+
+[CSS]
+

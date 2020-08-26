@@ -1,0 +1,46 @@
+object TChart
+  Left = 0
+  Top = 33
+  Width = 1638
+  Height = 880
+  Gradient.EndColor = 16777088
+  Gradient.StartColor = 12615680
+  Gradient.Visible = True
+  Legend.Visible = False
+  Title.Visible = False
+  BottomAxis.LabelsAngle = 90
+  Align = alClient
+  TabOrder = 1
+  PrintMargins = (
+    15
+    18
+    15
+    18)
+  object TLineSeries
+    Marks.Callout.Brush.Color = clBlack
+    Marks.Visible = False
+    SeriesColor = 4227327
+    Title = 'SAL'
+    Pointer.InflateMargins = True
+    Pointer.Style = psRectangle
+    Pointer.Visible = False
+    XValues.Name = 'X'
+    XValues.Order = loAscending
+    YValues.Name = 'Y'
+    YValues.Order = loNone
+  end
+  object TLineSeries
+    Marks.Callout.Brush.Color = clBlack
+    Marks.Visible = False
+    SeriesColor = clTeal
+    Title = 'COMM'
+    Pointer.InflateMargins = True
+    Pointer.Style = psRectangle
+    Pointer.Visible = False
+    Stairs = True
+    XValues.Name = 'X'
+    XValues.Order = loAscending
+    YValues.Name = 'Y'
+    YValues.Order = loNone
+  end
+end

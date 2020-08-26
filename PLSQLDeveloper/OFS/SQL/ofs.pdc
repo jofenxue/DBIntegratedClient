@@ -1,0 +1,6 @@
+@ofs.sql
+@ofs.pck
+@ofs_private.pck
+@ofs.trg
+set serveroutput on
+@ofs.tst

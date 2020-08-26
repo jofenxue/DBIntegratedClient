@@ -1,0 +1,76 @@
+Scripted installation
+---------------------
+
+In addition to the normal installation procedure, you can also create a script
+for unattended installation. To do this, you need to modify the setup.ini
+file. This file has a [AutoSetup] group with several values to control the
+installation process. You can define the following values:
+
+ * Silent
+   Indicates if the setup process runs invisible and automatically, can be
+   true or false (default).
+   When silent is false, the values below act as defaults in the setup
+   application.
+
+ * LicenseAgreement
+   Indicates if the license agreement will be shown, can be true (default) or
+   false
+
+ * Language
+   The language that will be used (enter the filename, like dutch.lang)
+
+ * Path
+   The installation directory (default "Program Files"\PLSQL Developer)
+
+ * OverwriteFiles
+   Indicates if there should be a message when overwriting files.
+   True overwrites, false keeps existing files, and empty shows a dialog.
+
+ * CreateGroup
+   Indicates if a PL/SQL Developer group with shortcuts should be created, can
+   be true (default) or false.
+
+ * CreateGroupIn
+   The group where the PL/SQL Developer shortcuts will be created.
+
+ * CreateShortcut
+   Indicates if a shortcut on the desktop should be created, can be true
+   (default) or false.
+
+ * TemplateFiles
+   Indicates if the template files should be installed, can be true (default)
+   or false
+
+ * KeywordFiles
+   Indicates if the keyword files should be installed, can be true (default)
+   or false
+
+ * ExternalExecute
+   Allows you to run an external application after setup has finished
+   successfully. 
+
+ * AutoStart
+   Indicates if PL/SQL Developer should be started after installation, can be
+   true or false (default)
+
+
+To create a completely silent install that will automatically start PL/SQL
+Developer after installation you can define the section like this:
+
+[AutoSetup]
+Silent=true
+LicenseAgreement=false
+Language=
+Path=
+CreateGroup=true
+CreateGroupIn=
+CreateShortcut=true
+TemplateFiles=true
+KeywordFiles=true
+ExternalExecute=
+AutoStart=true
+
+
+NOTE:
+Before you can modify the installation process you need to get the installation 
+files. You can do this by using winzip to extract all files from the exe file.

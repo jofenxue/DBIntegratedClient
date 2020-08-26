@@ -1,0 +1,3050 @@
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program Files (x86)\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.174)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-10月-2016 15:54:58
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program Files (x86)\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.174)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-10月-2016 15:55:02
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program Files (x86)\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.174)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-10月-2016 15:58:34
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program Files (x86)\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.174)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-10月-2016 16:05:05
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=als742)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.125)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 15-11月-2016 09:56:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 09:33:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 09:33:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:11:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:11:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:11:15
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:11:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:12:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:12:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:12:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:12:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:12:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:12:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:12:53
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:13:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:13:34
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:13:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:14:15
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:14:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:14:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:14:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:16:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 10:16:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:03:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=yes)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:06:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=yes)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:06:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=on)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:07:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=yes)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:07:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=yes)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:07:32
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=yes)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:07:59
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=yes)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:08:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=yes)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:08:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(FAILOVER=yes)(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:08:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(METHOD=PRECONNECT)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:16:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(METHOD=BASIC)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:16:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:24:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:27:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:27:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:27:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:27:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:33:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:33:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:33:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:33:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:34:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:34:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:34:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:34:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 11:47:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 13:01:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 13:05:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 13:05:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.33)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 13:07:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 13:18:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 13:19:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 13:19:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.34)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:24:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:26:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:26:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:26:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:26:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:26:53
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:26:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:27:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:27:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:27:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:27:32
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:27:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:27:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:28:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:28:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:28:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:30:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:30:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:31:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:32:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:33:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:33:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:33:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: 因目标主机或对象不存在, 连接失败
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: 因目标主机或对象不存在, 连接失败
+    nt secondary err code: 1004
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:42:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:42:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:42:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.31)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:43:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:43:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:43:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=edwprd)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.222.32)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 15:43:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 17-11月-2016 16:04:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.174)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 01-12月-2016 14:48:09
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.174)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 01-12月-2016 14:48:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.174)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 01-12月-2016 14:48:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.230.174)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 01-12月-2016 14:48:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 01-12月-2016 23:23:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.141.133.42)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 02-3月 -2017 09:59:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.141.133.42)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xdals)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 02-3月 -2017 09:59:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 20-4月 -2017 14:22:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 26-4月 -2017 16:11:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 11-12月-2017 08:52:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 11-12月-2017 09:48:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 11-12月-2017 13:08:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 11-12月-2017 14:43:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 11-12月-2017 14:43:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 11-12月-2017 15:01:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.141.144.135)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=comstar)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 14-12月-2017 11:59:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.141.144.135)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=comstar)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 14-12月-2017 11:59:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 02-1月 -2018 11:59:59
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:25:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:29:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:39:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:40:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:40:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:40:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:41:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:41:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:41:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:41:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:41:59
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:43:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:43:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:43:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:44:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:44:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:44:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:44:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 15:45:53
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:33:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:33:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:33:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:34:15
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:34:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:34:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:34:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:36:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:37:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 17:37:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 18:44:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 18:44:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 18:45:09
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 18:45:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 18:46:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 18:47:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 18:50:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:01:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:02:17
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:02:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:03:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:03:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:09:53
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:34:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:35:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-1月 -2018 21:35:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 11-1月 -2018 12:18:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=kobra)(CID=(PROGRAM=D:\Program?Files??x86?\PLSQLDeveloper\plsqldev.exe)(HOST=JOFENXUE)(USER=Administrator)))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.224.93)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 11-1月 -2018 12:19:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS: 拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 13-3月 -2018 13:25:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 09-4月 -2018 21:13:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 09-4月 -2018 21:41:32
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=10.139.2.39)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 20-4月 -2018 15:35:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=10.139.2.20)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 21-4月 -2018 17:01:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 21-4月 -2018 17:29:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=10.139.2.20)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 27-4月 -2018 15:41:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=10.139.2.41)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 27-4月 -2018 15:42:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=10.139.2.41)(PORT=1521))
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 27-4月 -2018 15:43:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: (ADDRESS=(PROTOCOL=tcp)(HOST=10.139.2.41)(PORT=1521))

@@ -1,0 +1,78 @@
+PL/SQL Developer Report
+
+[SQL]
+select r.* from dba_roles r
+where r.role like &<name="Role name"
+                    hint="The role name (wildcards allowed)"
+                    type="string"
+                    default="%"
+                    ifempty="%"
+                    list="select role from dba_roles order by role">
+order by role
+
+
+[Options]
+Connect=False
+Username=
+Password=2985
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2546
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Roles
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+
+
+[CSS]
+

@@ -1,0 +1,8 @@
+;PL/SQL Developer SpecialCopy definition
+;<LINE_1> for first line
+;<LINE_*> for all other lines
+;<LINE_N> for last line
+;
+'<line_1>' || chr(10) ||
+'<line_*>' || chr(10) ||
+'<line_n>';

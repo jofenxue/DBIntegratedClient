@@ -1,0 +1,350 @@
+Enhancements in PL/SQL Developer 8.0.4
+======================================
+* SQL Window would always print SQL text, disregarding "Print SQL"
+  preference
+* Searching within special text (strings, comments) could be slow
+* Key Configuration preference could reset to default instead of
+  using the defined keys when using multiple preference sets
+* Export to Excel would interpret data beginning with = as formula
+* Column names starting with a digit were not implicitly quoted in
+  SQL statements
+* Fixed issue with search in selection where incorrect characters
+  could be replaced
+* Duplicate items removed from description window
+* View/Edit Data for tables with an owner with special characters
+  would not add quotes to the owner
+* UTFE characters were displayed incorrectly when Unicode support
+  was enabled
+* Loading the Macro Library could fail on Windows 7/Vista, 
+  resulting in a "list index out of bounds" error message
+* Debugger could hang after an exception on Oracle11g
+* Code Assistant can now complete database link names
+* Copy all to Excel in the SQL Window would not have correct
+  formatting on the second sheet
+* To-Do Item List was not up-to-date when opening a package spec &
+  body
+
+Enhancements in PL/SQL Developer 8.0.3
+======================================
+* Fixed Access Violation when dragging & dropping an empty item in
+  the Logon History
+* Fixed Access Violation in the File Browser when adding a new folder
+* Order of items after "Open All Items" from a project was not correct
+* Project Groups could be removed after doing project options
+* Find would not work correctly with a column selection scope
+* Edit > Selection > Apply Syntax Case/Color Mark/Comment did not work
+  for Column Selections
+* Describe Window now also shows the view comments in the header
+* Export Tables would change nls_date_format in single session mode
+  and dual session mode
+* Auto Replace now supports Undo to continue with "non replaced" text
+* Debugger can now show PL/SQL Table elements indexed by a string
+* Object Browser could sometimes perform "double-click" action when
+  using the cursor right key
+* Unicode characters from DBMS_Output were not displayed correctly
+* Right-clicking on an empty area in the Window List did not show the
+  popup menu
+* Highlighted search hits are now cleared when editing the text
+* Fixed drawing performance issue with Diagram Window in zoomed mode
+* DDE now remains enabled for Windows Explorer open command 
+  (DisableDDE parameter to revert)
+* PL/SQL Developer main window could not always be minimized
+* To-Do list would not always be updated when switching editors in a
+  Program Window
+* Case expressions could cause incorrect "Unused assignment" hints
+* File Browser would not show all files for large directories
+  (>1000 files)
+* Support Info showed OCI Version 11.1 on a 10.2 client
+* Export Tables tool will limit the line size to 2400 characters in
+  SQL Inserts format for SQL*Plus compatibility
+* Reports did not always calculate subtotals correctly
+* Compiler Hints could not be enabled/disabled
+
+Enhancements in PL/SQL Developer 8.0.2
+======================================
+* Required version for French, German, Spanish, Russian and Chinese 
+  Language Packs
+* SQL Window print would not always print date in header
+* Window List order was not always preserved
+* Large Data Editor text could be invisible
+* Ampersands in field names would lead to accel keys in grid headings
+* User Editor now adds quotes to password when needed
+* Object Browser would show duplicate columns when a cluster with the
+  same name exists
+* Incorrect "Not all records are fetched" warning could occur in the
+  SQL Window
+* PL/SQL Beautifier option "Split join expression before ON" did not
+  always work
+* Timestamp fields were not formatted correctly in Single Session Mode
+
+Enhancements in PL/SQL Developer 8.0.1.1502
+===========================================
+* File > New > Program Window submenu and could be empty
+* Object popup menu item "New" could do nothing
+
+Enhancements in PL/SQL Developer 8.0.1.1501
+===========================================
+* Code Assistant did not work anymore for subselects
+* Unpinned dockable tools did not always retract
+
+Enhancements in PL/SQL Developer 8.0.1
+======================================
+* Fix for MonitorFromPoint Access Violations
+* File Browser would not always sort the files
+* Parentheses would not be highlighted when the closing parenthesis is
+  the last character in the editor
+* SQL results, Copy To Excel would not wrap at 64K rows
+* Exporters have an option for ANSI (plain text) export (a second option
+  in the file dialog filters)
+* Session Window headings would be empty after reconnecting to a newer
+  Oracle Server version
+* Shortcut for Edit > Full screen changed from F to L to remove duplicate
+  with Find & Replace
+* Mouse cursor did not show busy status when over an editor
+* SQL Window could mark edited number fields without scale and precision
+  as invalid (red)
+* Project popup "Object Options" is now disabled when not logged on
+* Text Editor of the Large Data Editor did not have the editor background
+  color
+* When registering file types, Application will also be (re)registered
+* Open <cursor> for <with statement> was not beautified correctly
+* Declared exceptions were not highlighted in the Program Window
+* Variable highlighting and Code Assistant Popup did not work consistently
+  for Triggers
+* Changing the window type would incorrectly convert Unicode characters
+* Dropping and purging multiple items now has progress bar and Esc option
+* Holding the mouse cursor over an indexed item during debugging did not 
+  show the value
+* System privilege selection list of the User Editor was too small
+  (4 items)
+* Resolving table names failed on Oracle Server 9.0.x
+* Text Importer, paste data would not always work
+* Code Assistant pane could be trimmed by window edge
+* Editing Scheduler Date/Time fields could lead to '<date/time> is not a
+  valid date and time' message
+* Project Groups now fully support Unicode names
+* SQL Window Previous/Next SQL keys did not work when no result grid was
+  present
+* Docking panes would retract when popup menus or dropdown lists were
+  displayed
+* Query Data and Edit Data functions did not handle mixed case identifiers
+  correctly
+* Code Assistant could popup after executing a SQL Window
+* SQL Window Column Total > Count now only counts non-null values
+* SQL Window Column Total > Sum precision improved for 0.0 results
+* Command Window RunTestSet command could not read directory/file names
+  with spaces
+* PL/SQL Beautifier "Init Caps" option would capitalize single character 
+  prefixes (P_Empno instead of p_Empno)
+* Fixed File Browser bug repeating the same subdirectory
+* Object Browser Double-click action was unpredictable
+  (would expand/collapse instead)
+* SQL Window timer would keep counting while an error message was displayed
+* Fixed Access Violation in TreeNode.GetParent
+* AutoReplace was only invoked when positioned before a whitespace character
+* DBMS Output could not process lines longer than 4000 characters
+* SQL Window Export Query Results button would mess up results with multiple
+  result sets
+* PL/SQL Developer would give an incorrect "owned by different user" warning
+  with a loaded file when switching users
+* Support added for 'identified by values <encrypted password>' clause for
+  User DDL
+* SQL Window would always print with the Courier fount
+* Fixed bug with file names in title and window list and projects when using
+  desktop parameter
+* Keywords are now saved under Application Data in the user profile
+* When updating a schedule, start_date and end_date could be updated without
+  making a change
+* Browser Object status would not always be updated correctly after 
+  docking/undocking
+* DBMS_Metadata functions did not retrieve UTF8 text on a non-UTF8 client
+* Code Assistant would not describe embedded object types 
+  (e.g. Person.Address.|)
+* The Object Browser did not show columns for Bitmap join indexes
+* Window List will draw faster
+* LANGUAGE=<xxx.lang> command line parameter added
+* Fixed Access Violation in Data Generator
+* Copy grid selection did not add cr/lf after the last line
+* Command Window would sometimes need <enter> twice to execute recalled
+  statement
+* Invoking the PL/SQL Beautifier did not update the Bookmark List
+* PL/SQL Beautifier could not parse merge statements with case expressions
+* Floating tools could steal the focus after using the Find & Replace function
+* Double-clicking a project file will open a new PL/SQL Dev instance
+* A newly created SQL Window after pasting a SQL text on the PL/SQL Developer
+  work area could be closed without a "Save SQL Window" warning.
+* Code Assistant did not list parameters for locally declared object functions
+  or procedures
+* Command-line parameter NoCheckFileDate added to suppress checking for
+  changed files
+* SQL Window Copy All To Excel did not set cell format correctly
+* Commit/Rollback buttons could have wrong status after a cancelled import
+* Project Build could give continuous error message for deleted files
+* Comments before a program unit could be indented incorrectly
+* Code Assistant popup could hide partially under Windows taskbar and/or
+  sidebar
+* New PL/SQL Beautifier rule "Split JOIN expression before ON" added for 7.1
+  compatibility
+* Substitution variable integer validation was limited to a 32 bit integer
+* Pipelined functions could lead to incorrect "function does not return a 
+  value" hint
+* AutoReplace is no longer automatically invoked when typing comments or
+  strings
+* SQL Window could give a "not all records are fetched" warning in Single
+  Record Mode
+* PL/SQL Beautifier would not always format item lists correctly for a WITH
+  statement
+* Search > Replace All did not always work correct ('''' replace by '' would
+  give ')
+* Improved multi monitor dialog positioning
+* Execute button was not updated correctly after saving a read-only database
+  source
+* Inserting and Updating CLOB's and BLOB's through the SQL Window now uses 
+  Temporary LOB's on Oracle 8.1 and later to facilitate trigger testing
+* Compare Table Data could update incorrect fractions of a second for
+  timestamp columns
+* Code Assistant items can now be sorted
+* SQL Window "Save as Template" option could show "Unexpected error" instead
+  of a normal error message
+* SQL Window execution time would be displayed during substitution variable
+  form
+* Notification time for long running queries would include substitution
+  variable form time
+* Object Browser double-click action preferences were not saved for
+  dbms_scheduler types
+* Code Assistant would not describe object type columns
+* Two quick shift-clicks on the Window List could cause an Access Violation
+* Replace All could result in an endless loop
+* Hyperlink navigation from a DML statement would sometimes incorrectly
+  navigate to the table or view
+* Find menu shortcut keys would not get default values after upgrade to 8.0
+* File Browser would sort case sensitive
+
+
+Enhancements in PL/SQL Developer 8.0
+====================================
+- DBMS Scheduler tool added 
+- Object Browser enhancements
+  > User selector added 
+  > Search field added 
+  > Folders are reopened after changing filters 
+  > Scheduler object folders added 
+  > Indexes folder added 
+  > Java classes folder 
+  > Constraints folder added 
+- New Docking interface
+  > Vertical tab pages 
+  > Pin/Unpin 
+  > Maximize/restore 
+  > To-Do items are now dockable 
+  > Project items are now dockable 
+- File Browser dockable tool added 
+- Editor enhancements
+  > New Preference: Show Special Characters by default 
+  > Shift-home now jumps the beginning of line, not the the first non-space character 
+  > Find now has a "find all" button 
+  > Smart indent option added (indents automatically after begin, declare, if, ...) 
+  > Added a "Include font style with Copy" preference 
+  > Variable highlighting now highlights record fields 
+- Code Assistant enhancements
+  > Now describes :OLD and :NEW variables in triggers 
+  > Now describes SELF references in type bodies 
+  > New option: "Show variable and type declarations in a popup" 
+- Project enhancements
+  > Groups 
+  > actions per group (open all, close all) 
+  > To-do list in options form 
+  > Find in project 
+- SQL Window enhancements
+  > "Copy all to Excel" popup added for multiple result grids 
+  > Printing one from multiple results, now prints the related SQL 
+  > "Sort case sensitive" popup added for grid columns 
+  > Align templates added under align button 
+  > New preference: Initial empty editor lines 
+  > Result grid keeps focus after execute 
+  > Values entered in grid beyond size/scale/precision of the database field are displayed in red 
+  > Clear Tab Results popup item added to clear a single result set 
+- External table support added to the Table Definition Editor 
+- Table compression support added to the Table Definition Editor 
+- Oracle11g SQL and PL/SQL keywords added 
+- Subpartition support added to the Table Definition Editor 
+- Object column attribute support for indexes and constraints added to the Table Definition Editor 
+- Conditional compilation selection directives recognized in Program Window 
+- PL/SQL CCFlags item added to object popup menu 
+- Conditional compilation flags added to Compiler preference page 
+- Substitution variables added to Compiler preference page 
+- PL/SQL Optimize Level added to Compiler preference page 
+- PL/Scope Identifiers added to Compiler preference page 
+- PL/SQL Warnings added to Compiler preference page 
+- PL/SQL Code type added to Compiler preference page 
+- Compare User Objects now allows you to select a user for the source objects 
+- Compare User Objects now ignores differences in quoted/unquoted object names 
+- Compare Table Data now allows you to select a user for the source tables 
+- Export User Objects option added: File per object / spec & body in a single file 
+- Compare User Objects preserves target connection when switching main connection 
+- Diagram Window enhancements
+  > Zoom option added 
+  > Additional line-end types 
+  > Print selection and print over multiple pages 
+  > Line description added 
+  > Notes added 
+  > Show/hide icons 
+  > Show/hide headings 
+  > Reference lines added 
+- PL/SQL Beautifier enhancements:
+  > -- NoFormat Start / -- NoFormat End directives can be used to suppress formatting 
+  > Update select lists are now formatted properly 
+  > Nested case expressions are now parsed and formatted properly 
+  > Cursor parameters are now formatted in accordance with the parameter formatting rules 
+  > Case expressions formatted correctly when used in conditions 
+  > Fetch item list now formatted correctly 
+- Text Importer improvements
+  > Run can now be interrupted by pressing Escape 
+  > Now displays the number of failed records 
+  > Keeps the form updated during import 
+  > Generate script now has Local/UTF8 option in file dialog 
+  > Added a comment line preference 
+  > Added a "skip empty lines" preference 
+  > Import to script tries to keep line size below 256 characters for SQL*Plus compatibility 
+  > Added Line start/end setting 
+  > UTF8 encoded text will automatically save as UTF8 encoded import script 
+- Wait for Tool option added to Tools 
+- Session Window: Moved columns will stay at the moved location after a refresh 
+- New command-line parameters
+  > SESSIONMODE command line parameter added (SINGLE|DUAL|MULTI or 1|2|3) 
+  > LFPATH=<path> command line parameter to force location of license file 
+  > NOSCWARNING command line parameter to prevent messages about service contract expiration 
+  > HEXEDIT=<filename> command line parameter added 
+  > DEFAULTPREFPATH command line parameter added to force a default preference directory 
+  > PROJECT=<filename> command line parameter added 
+- Report Window: "Save as PDF" button added 
+- Auto Refresh no longer keeps asking for variables in SQL Window and Report Window 
+- Command Window SPOOL OUT added (stop spooling and print file) 
+- Worked around 64K row limit for Excel export by adding additional pages 
+- Pasting text will create a new SQL Window when no window available 
+- Table properties now also include information from all_objects view 
+- Property windows now have a cell button to invoke the text viewer when the text is too long to display 
+- DBMS Output pane added to the "Run" tab page of the Test Manager 
+- Running time added to status line for SQL and Test Window 
+- "Notify end of long running queries" preference added for SQL and Test Window 
+- Find menu items names changed and Find Previous added 
+- Improved Editor Macro dialog 
+- Auto Refresh now includes a Start All / Stop All option 
+- Describe and Properties popup are now numbered 
+- Specific error message when loading 64 bit oci.dll 
+- Added a "Folding on by default" preference 
+- Added Program Window compilation warning: This object is owned by a different user! 
+- Numbers format preference added (and date/time group changed to NLS Options) 
+- Search function added to Support Info dialog 
+- Upgraded ExamDiff from 1.6 to 1.8 
+- Improved support for type specification versions 
+- Table describe function now includes table comments 
+- View DDL now includes column comments 
+- Oracle Option preference "Add column alias list for View DDL" added 
+- Improved installer, to install for current user / all users 
+- Plug-In interface extended
+  > IDE_NextSelectedFile: PChar 
+  > IDE_FirstSelectedFile(Files, Directories: Boolean): PChar 
+  > IDE_RefreshFileBrowser 
+  > Support for PlugInPopups: "FILE" 
+  > wtHTML option supported for IDE_CreateWindow to show (html) text 

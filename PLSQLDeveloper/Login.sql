@@ -1,0 +1,1 @@
+-- Autostart Command Window script

@@ -1,0 +1,105 @@
+Blue Field
+{
+  Background: #004080;
+  Color: #E0FFE0;
+  Border-style: None;
+  Font-family: Arial;
+  Font-size: 9pt;
+}
+
+Blue Form
+{
+  Background: #5050A0;
+  Border-style: None;
+}
+
+Blue Header
+{
+  Background: #400080;
+  Color: #FFE0E0;
+  Border-style: None;
+  Font-family: Arial;
+  Font-size: 9pt;
+  Font-weight: Bold;
+}
+
+Blue Table
+{
+  Background: #5050A0;
+  Border-style: None;
+  Width: 100%;
+}
+
+Blue Title
+{
+  Background: #000050;
+  Color: #FFFF00;
+  Font-family: "Arial Black";
+  Font-size: 12pt;
+  Font-style: Italic;
+  Text-align: Center;
+  Width: 100%;
+}
+
+Blue Variables
+{
+  Background: #333399;
+  Color: #E0E0FF;
+  Border-style: None;
+  Border-width: 0px;
+  Border-Color: #808000;
+  Padding: 0px;
+  Font-family: Arial;
+  Font-size: 7pt;
+  Font-weight: Bold;
+}
+
+Default Field Header
+{
+  Background: #E0E0E0;
+  Color: #000000;
+}
+
+Default Field Style
+{
+  Background: #F4F4F4;
+  Color: #000000;
+}
+
+Default Form Tables
+{
+  Color: #000000;
+  Border-style: None;
+}
+
+Default Report title
+{
+  Background: #F0F0F0;
+  Color: #000000;
+  Border-style: Solid;
+  Border-width: 1px;
+  Border-Color: #C0C0C0;
+  Padding: 1px;
+  Font-size: 12pt;
+  Font-weight: Bold;
+  Font-style: Italic;
+  Text-align: Center;
+  Width: 100%;
+}
+
+Default Tabular Tables
+{
+  Color: #000000;
+  Border-style: None;
+  Width: 100%;
+}
+
+Default Variables
+{
+  Background: #F0F0F0;
+  Color: #000000;
+  Border-style: None;
+  Font-size: 8pt;
+  Font-weight: Bold;
+}
+

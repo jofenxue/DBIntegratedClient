@@ -1,0 +1,12 @@
+;PL/SQL Developer SpecialCopy definition
+;<LINE_1> for first line
+;<LINE_*> for all other lines
+;<LINE_N> for last line
+;
+#define " = \"
+#define \ = \\
+#define char(9) = \t
+
+String("<line_1>\n") +
+String("<line_*>\n") + 
+String("<line_n>");

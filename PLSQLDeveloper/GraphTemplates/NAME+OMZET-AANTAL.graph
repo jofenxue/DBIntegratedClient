@@ -1,0 +1,42 @@
+object TChart
+  Left = 0
+  Top = 33
+  Width = 1638
+  Height = 880
+  Gradient.EndColor = 8454016
+  Gradient.MidColor = clWhite
+  Gradient.StartColor = 8553215
+  Gradient.Visible = True
+  Legend.Visible = False
+  Title.Visible = False
+  BottomAxis.LabelsAngle = 90
+  Align = alClient
+  TabOrder = 1
+  PrintMargins = (
+    15
+    18
+    15
+    18)
+  object TBarSeries
+    Marks.Callout.Brush.Color = clBlack
+    Marks.Visible = False
+    Title = 'OMZET'
+    BarWidthPercent = 95
+    Gradient.Direction = gdTopBottom
+    XValues.Name = 'X'
+    XValues.Order = loAscending
+    YValues.Name = 'Bar'
+    YValues.Order = loNone
+  end
+  object TBarSeries
+    Active = False
+    Marks.Callout.Brush.Color = clBlack
+    Marks.Visible = False
+    Title = 'AANTAL'
+    Gradient.Direction = gdTopBottom
+    XValues.Name = 'X'
+    XValues.Order = loAscending
+    YValues.Name = 'Bar'
+    YValues.Order = loNone
+  end
+end

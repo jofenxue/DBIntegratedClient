@@ -1,0 +1,560 @@
+[Code,Description,Price]
+ML-001,USB to Parallel Printer Cable.,19.00
+ML-002,Mouse Pad,1.00
+ML-010,14"/15" Filter Screen,3.00
+ML-013,Printer Cable,1.00
+ML-015,Keyboard Converter from (old) standard form to (new) PS/2.,1.00
+ML-016,Testing of CPU/Fan and Motherboard.,8.95
+ML-017,Cooler Master Round Floppy Cable. PTC-F18,6.50
+ML-018,Surge protector,2.00
+ML-023,Cooler Master ATA133 Rounded IDE Cable . PTC-A18,8.00
+ML-024,CoolerMaster Thermal Compound High Performance. HTK-001,5.00
+ML-026,USB Cable 6ft. Long.,1.00
+ML-030,CoolerMaster Thermal Compound Premium PTK-001.,6.50
+ML-031,Audio Cable.,1.00
+ML-034,17" Filter Screen,8.00
+ML-035,Assembly CPU/Fan; Motherboard; Case; and Other Products.,35.00
+ML-100,2 Year Warranty On MotherBoards.,9.50
+ML-101,2 Year Warranty On Combo's.,15.00
+ML-102,2 Year Warranty On BareBones.,25.00
+ML-999,Assembly & Testing of the CPU/Fan; Motherboard; Case; and Other Products.,75.00
+ABB-009,AMD XP 2000+ & GigaByte GA-7VT600L MB w/ 313M case. Free PS2 Mouse.,175.00
+ABB-010,AMD XP 2500+ & GigaByte GA-7VT600L MB w/ 313M case. Free PS2 Mouse.,199.00
+ABB-011,GigaByte 7N400Pro AntecCase+AMDXP2700,389.00
+ABB-012,AMD XP 2500+ FBS 333 & GigaByte GA-7N400L MB w/ 313M case. Free PS2 Mouse.,219.00
+ABB-026,AMD XP 1800+ & Biostar M7VKQ Pro MB w/ 313M Case. W/ PS2 Mouse.,125.00
+ABB-049,AMD XP 2000+ & Biostar M7VKQ Pro MB w/ 313M case. W/ PS2 Mouse.,135.00
+ABB-053,AMD 1.1Ghz BareBone System W/Free M&M,89.00
+ABB-055,AMD XP 1800+ & Gigabyte GA-7DXE MB w/ 313M Case W/ Free PS2 Mouse.,135.00
+ABB-057,AMD XP 2000+ & Gigabyte GA-7DXE MB w/ 313M Case W/ Free PS2 Mouse.,145.00
+ABB-058,AMD XP 2100+ Box & Gigabyte GA-7DXE MB w/ 313M Case. W/ Free PS2 Mouse.,149.00
+ABB-069,AMD XP 2100+ Box w/Fan & Biostar M7VKQ Pro MB w/ 313M Case. W/ PS2 Mouse.,139.00
+ABB-070,AMD 1.3Ghz BareBone System Free Mouse,99.00
+ABB-072,AMD XP 2200+ & Gigabyte 7N400Pro w/ 313M case . W/ Free PS2 Mouse.,229.00
+ABB-073,AMD XP 2200+ & Gigabyte 7DXE w/ 313M case . W/ Free PS2 Mouse.,159.00
+ABB-077,AMD Duron 1.3Ghz & Gigabyte GA-7VKMLE MB w/ 312D Color Case. W/ Free PS2 Mouse.,109.00
+ABB-079,AMD XP 1800+ & Gigabyte GA-7VKMLE MB w/ 313M Color Case. W/ Free PS2 Mouse.,139.00
+ABB-081,AMD XP 2000+ & Gigabyte GA-7VKMLE MB w/ 313M Color Case. W/ Free PS2 Mouse.,145.00
+ABB-082,AMD XP 2100+ (Box) & Gigabyte GA-7VKMLE MB w/ 313M Color Case. W/ Free PS2 Mouse.,149.00
+ABB-083,AMD XP 2200+ & Gigabyte GA-7VKMLE MB w/ 313M Color Case. W/ Free PS2 Mouse.,159.00
+ABB-095,AMD XP 2700+ & Gigabyte 7N400Pro w/ 313M case . W/ Free PS2 Mouse.,299.00
+ABB-098,AMD XP 2500+ & Gigabyte 7N400Pro w/ 313M case . W/ Free PS2 Mouse.,245.00
+ABB-100,AMD XP 1800+ & GigaByte GA-7VA MB w/ 313M case. Free PS2 Mouse.,149.00
+ABB-101,AMD XP 2000+ & GigaByte GA-7VA MB w/ 313M case. Free PS2 Mouse.,155.00
+ABB-102,AMD XP 2100+ & GigaByte GA-7VA MB w/ 313M case. Free PS2 Mouse.,159.00
+ABB-103,AMD XP 2200+ & GigaByte GA-7VA MB w/ 313M case. Free PS2 Mouse.,195.00
+ABB-104,AMD XP 2400+ FBS 333 & GigaByte GA-7VA MB w/ 313M case. Free PS2 Mouse.,179.00
+ABB-105,AMD XP 2600+ FBS 333 & GigaByte GA-7VA MB w/ 313M case. Free PS2 Mouse.,189.00
+ABB-106,AMD XP 2700+ FBS 333 & GigaByte GA-7VA MB w/ 313M case. Free PS2 Mouse.,235.00
+ABB-107,AMD XP 2500+ FBS 333 & GigaByte GA-7VA MB w/ 313M case. Free PS2 Mouse.,179.00
+ABB-108,AMD XP 2000+ & Biostar M7VIG-Pro MB w/ 313M case. Free PS2 Mouse.,145.00
+ABB-109,AMD XP 1800+ & Biostar M7VIG-Pro MB w/ 313M case. Free PS2 Mouse.,135.00
+ABB-110,AMD Duron 1.3MHz & Biostar M7VIG-Pro MB w/ 312D case. Free PS2 Mouse.,115.00
+ABB-113,AMD XP 2200+ & Biostar M7VIK KT400 MB w/ 313M case. Free PS2 Mouse.,179.00
+ABB-114,AMD XP 2600+ & Biostar M7VIK KT400 MB w/ 313M case. Free PS2 Mouse.,356.00
+ABB-116,AMD XP 2500+ Barton CPU ASUS A7N8X Deluxe NVIDIA Force2 w/ Antec Performance plus II 1040B Case.,329.00
+ABB-117,AMD XP 3000+ Barton CPU ASUS A7N8X Deluxe NVIDIA Force2 w/ Antec Performance plus II 1040B Case.,499.00
+sy-006,Biostar Mini BareBone PC > iDEQ 200N.,285.00
+SY-008,GigaByte G-Max AMD Flex ATX Platform .,199.00
+IBB-005,Intel Celeron 1.3Ghz & Biostar M6VLQ MB w/ 312J Color Case. W/ Free PS2 Mouse and AMR Moden.,109.00
+IBB-006,Intel Celeron 1.7ghz & Biostar U8668D. W/ Free CNR 56k & PS2 Mouse.,138.00
+IBB-008,Intel Celeron 1.8ghz & Biostar U8668D. W/ Free CNR 56k & PS2 Mouse.,155.00
+IBB-012,Intel Celeron 1.7ghz & Gigabyte GA-8LS533 MB w/ 313M Case. W/ Free PS2 Mouse.,139.00
+IBB-014,Intel Celeron 1.8ghz & Gigabyte GA-8LS533 MB w/ 313M Case. W/ Free PS2 Mouse.,156.00
+IBB-035,Intel Pentium4 1.8Ghz & Biostar U8668D MB w/ 313M case. W/ Free CNR 56k & PS2 Mouse.,219.00
+IBB-108,Intel Pentium4 2.4ghz & Intel D845PESV MB w/ 313M Case. W/ Free PS2 Mouse.,289.00
+IBB-109,Intel Pentium4 1.8ghz & Intel D845PESV MB w/ 313N Case. W/ Free PS2 Mouse.,249.00
+IBB-110,Intel P4 2.4G BareBone System W/ Free Mouse.,269.00
+IBB-112,Intel Pentium4 1.8ghz & Gigabyte GA-8IE800 MB w/ 313M Case. W/ Free PS2 Mouse.,229.00
+IBB-113,Intel Pentium4 3.0ghz & Asus P4C800 MB w/ Antec Performance Plus II 1040B Case.,769.00
+IBB-114,Intel Pentium4 2.4ghz & GigaByte 8IPE1000 Pro MB w/ Antec Performance Plus II 1040B Case.,399.00
+SY-005,GigaByte G-Max Intel P4 Flex ATX Platform .,219.00
+SY-012,Biostar Mini BareBone PC > iDEQ 200S.,179.00
+VC-004,Logitech Quick Cam W/Free Headset,27.00
+VC-014,ADS Firewire Web Cam (20X faster than USB),69.00
+VC-022,ADS USB Turbo 2.0 WebCam.,58.00
+CS-005,313B Black 400W P4/AMD Fan&USB,27.00
+CS-007,319A ATX case 400W P4/AMD Free Fan and 2 Front USB.,49.00
+CS-008,312D ATX color case(translucent blue) with 300Watt P4/P3/AMD Support PowerSupply.,16.00
+CS-009,9011 ATX Mid Server Case 450W w/3 case fans,65.00
+CS-012,KIT Keyboard Mouse and Speakers to match Black cases.,13.00
+CS-014,313B Black 300W P4/AMD Fan&USB .,23.00
+CS-018,Front panel USB kit (for 312J and 312D Case),5.00
+CS-019,8 inch Neon blue lamp,12.00
+CS-020,313K 300W P4/AMD and 2 Front USB.,25.00
+CS-021,Antec PlusView1000AMG Metallic Gray SOHO File Server without PowerSupply.,75.00
+CS-024,6072-1 case with side window 400W Powersupply.,36.00
+CS-025,KIT Keyboard Mouse and Speakers to match color case,13.00
+CS-030,313G-B ATX case 400W P4/AMD Free Fan and 2 Front USB.,35.00
+CS-034,313D Black Case 300W P4/AMD,24.00
+CS-042,Antec Plus 660 ATX Mid tower 330w Power Supply,99.00
+CS-043,313F-B ATX case 400W P4/AMD Free LED Fan.,45.00
+CS-046,219L ATX color Case teal 400W ScrewLess mid tower w/case Fan,29.00
+CS-048,313M ATX color Case blue 300W P4 w/ front USB & case fan,22.00
+CS-052,ANTEC Performance PLUS Model PLUS1080 w/ Antec Original TRUE 430W P4 Power Supply.,125.00
+CS-053,313D Black 400W P4/AMD 2xUSB,27.00
+CS-057,Antec PFII Series 1040BII 400W PSU.,95.00
+CS-060,312A Black ATX case 300W P4/AMD (Front USB Optional.),19.00
+CS-072,312D ATX translucent blue color case with 300W P4/AMD with(front USB ready) .,20.00
+CS-088,6066-C10 Black Computer case w/Window panel,49.00
+CS-099,KIT with Mistumi Internet Keyboard & Optical Mouse & 54X CDrom to match Black case .,48.00
+ML-029,Case Fan 3 1/2"(80mm) 12V,3.00
+RD-008,MITSUMI 54X CD-Rom Black.,20.00
+RD-031,MITSUMI 54X CD-Rom FX5401W .,16.00
+RD-002,LG 52x24x52x CD-RW (OEM).,45.00
+RD-007,Black LG Electronics CD-RW 48x12x48x / DVD 16x Combo Drive.,75.00
+RD-011,10 Pack CD-R cd's Color pack,9.95
+RD-015,Black OptoRite 48X16X48X CD-RW Retail Box(Includes Nero 5.5 software and audio & IDE Cable ).,45.00
+RD-018,LG 48x24x40 and 16x CD-RW/DVD OEM.,69.00
+RD-023,LG 32x10x40 and 16x CD-RW/DVD OEM,58.00
+RD-024,Sony 48x24x40 and 16x CD-RW/DVD OEM.,69.00
+RD-025,Black Sony CD-RW 52x24x52x .,55.00
+RD-026,CyberDrive 40X16X48X CD-R/RW Drive.,30.00
+RD-028,OptoRite 48X16X48X CDRW Retail Box,35.00
+RD-034,Black Mitsumi CD-RW 52x24x52x.,49.00
+RD-037,Mitsumi 52x 40 x 48 CD-RW,44.00
+RD-038,Sony 48x24x48 and 16x CD-RW/DVD OEM.,72.00
+CS-032,8012 Black case with 400W Powersupply.,39.00
+MB-006,Biostar M7SXD P4 M/B Socket 478 Support SD/DDR (30 day D.O.A Warranty),46.00
+MB-016,Biostar M7TDR P4 M/B Skt 423 (w/30 day limit warranty),69.00
+MB-022,Biostar M7VKG M/B up to 32Mb Video (30 day D.O.A Warranty),49.00
+MB-028,M7SXF P4 478pin Motherboard (Suppout DDR Max 3GB)(30 day D.O.A Warranty),44.00
+MB-043,Gigabyte GA-8IRXP ATA133 + onboard Raid + USB2.0 + Lan,99.00
+MB-044,Gigabyte GA-8ID533 Socket 478 Intel®,65.00
+MB-051,Gigabyte GA-8IE533 Intel®845E Chipset,78.00
+PT-099,hp scanjet 5550c scanner series (C9919A) (Open Box).,250.00
+NC-001,4 Port USB 2.0 High-Speed PCI Card,22.00
+NC-003,ADS 2 Port USB Pci card,18.00
+NC-015,ATA 100 Controller Card PCI,29.00
+NC-016,ATA 100 RAID controller card,89.00
+VC-015,ADS Technologies Firewire 1394 3 Port PCI,40.00
+Ml-009,Cooler Master P4 CopperHeatPipe Fan IHC-H71,35.00
+ML-011,Cooler Master Copper HEAT PIPE Cooler. HHC-001,34.00
+ML-027,Cooler Master Socket A CopperHeatSync Fan HSC-V62,25.00
+ML-037,Dynatron CPU Cooler DF1206BH AMD Athlon\Duron Fan. (AMD Recommend),10.00
+ML-038,Dynatron MicroFin DC1206BM-l AMD Athlon/Duron Fan w/ Copper Base up to AMD XP (AMD APPROVED!) 3000+.,18.00
+CMA-039,AMD XP1800 Biostar M7VKQ Pro,99.00
+CMA-059,AMD XP2000+ Biostar M7VKQ Pro,115.00
+CMA-063,Combo AMD Duron 1.1Ghz CPU and Cooler Fan w/Biostar M7VKQ-Pro M/b (Support DDR) and (Free Modem.),75.00
+CMA-064,Combo AMD XP 1800+ CPU; Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,209.00
+CMA-104,Combo AMD Duron 1.3Ghz + Biostar M7VKQ Pro,85.00
+CMA-106,Combo AMD MP 1500+ Gigabyte GA-7DPXDW Dual CPU M/B +Fan (one cpu only),398.00
+CMA-108,Combo AMD XP 2200+( Box cpu) Gigabyte GA-7DXE.,129.00
+CMA-109,Combo AMD XP 2000+ CPU; Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,209.00
+CMA-110,Combo AMD XP 2100+ (Box CPU); Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,205.00
+CMA-111,Combo AMD XP 2200+ CPU; Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,209.00
+CMA-114,Combo AMD Duron 1.3Ghz cpu Gigabyte GA-7VKMLS m/b fan.,93.00
+CMA-116,Combo AMD XP 1800+ cpu Gigabyte GA-7VKMLE m/b fan.,119.00
+CMA-118,Combo AMD XP 2000+ cpu Gigabyte GA-7VKMLS m/b fan.,129.00
+CMA-127,Combo AMD XP 2100+ (Box CPU) Biostar M7VKQ Pro m/b Cooler Master Fan,117.00
+CMA-128,Combo AMD XP 2400+ CPU; Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,219.00
+CMA-130,Combo AMD XP 2400+ cpu Gigabyte GA-7DXE Motherboard + Fan.,149.00
+CMA-134,Combo AMD XP 2600+ CPU; Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,239.00
+CMA-135,Combo AMD XP 2700+ CPU; Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,279.00
+CMA-138,Combo AMD XP 2500+ CPU; Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,229.00
+CMA-140,Combo AMD XP 2500+ Gigabyte GA-7VA M/B.,159.00
+CMA-141,Combo AMD XP 2700+ CPU; Gigabyte GA-7VA M/B.,199.00
+CMA-142,Combo AMD XP 2600+ CPU; Gigabyte GA-7VA M/B.,169.00
+CMA-143,Combo AMD XP 2400+ CPU; Gigabyte GA-7VA M/B.,165.00
+CMA-144,Combo AMD XP 2200+ CPU; Gigabyte GA-7VA M/B.,145.00
+CMA-145,Combo AMD XP 2100+ CPU; Gigabyte GA-7VA M/B.,149.00
+CMA-146,Combo AMD XP 2000+ CPU; Gigabyte GA-7VA M/B.,135.00
+CMA-147,Combo AMD XP 1800+ CPU; Gigabyte GA-7VA M/B.,125.00
+CMA-150,Combo AMD Duron 1.3Ghz Biostar M7VIG-Pro Skt A MotherBoard w/ OnBoard Video/sound/Lan.,99.00
+CMA-151,Combo AMD XP 1800+ Biostar M7VIG-Pro Skt A MotherBoard w/ OnBoard Video/sound/Lan.,119.00
+CMA-152,AMDXP2000+ Box BiostarM7VIG-Pro,125.00
+CMA-153,Combo AMD XP 2000 Biostar M7VIK Skt A MotherBoard; KT400.,145.00
+CMA-154,Combo AMD XP 2400 Biostar M7VIK Skt A MotherBoard; KT400.,169.00
+CMA-155,Combo AMD XP 2500+ Biostar M7VIK Skt A MotherBoard; KT400.,179.00
+CMA-156,Combo AMD XP 2100+ CPU ASUS A7N8X Deluxe NVIDIA Force2,209.00
+CMA-157,Combo AMD XP 2500+ Barton CPU ASUS A7N8X Deluxe NVIDIA Force2,229.00
+CMA-158,Combo AMD XP 2600+ CPU ASUS A7N8X Deluxe NVIDIA Force2,249.00
+CMA-159,Combo AMD XP 2700+ CPU ASUS A7N8X Deluxe NVIDIA Force2,289.00
+CMA-160,Combo AMD XP 3000+ Barton CPU ASUS A7N8X Deluxe NVIDIA Force2,399.00
+CMA-161,Combo AMD XP 2000+ CPU; Gigabyte GA-7VT600L M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,155.00
+CMA-162,Combo AMD XP 2500+ CPU; Gigabyte GA-7VT600L M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,179.00
+CMA-163,Combo AMD XP 2700+ CPU; Gigabyte GA-7N400Pro M/B(W/DDR400 up to 3GB/ATA133 Raid/USB2.0) +Fan.,285.00
+CMA-164,Combo AMD XP 2500+ CPU; Gigabyte GA-7N400L M/B(W/DDR400 up to 3GB/ATA133 USB2.0) +Fan.,189.00
+CMI-013,Combo Intel Celeron 1.7G Gigabyte MB GA-8LS533,125.00
+CMI-078,Combo Intel Celeron 1.1 Ghz (Box)w/Fan + Biostar M6VLQ skt 370 M/B (With / Video;sound),95.00
+CMI-087,Combo Intel P4 1.8Ghz (Box CPU)+ Biostar U8668D m/b (478pin)CPU & Fan Support SD.,195.00
+CMI-092,Combo Intel Celeron 1.3ghz Biostar M6VLQ m/b + fan.,99.00
+CMI-099,Combo Intel P4 2.4Ghz retail CPU + Gigabyte GA-8IE800 M/B + Fan.,265.00
+CMI-102,Combo Intel Celeron 1.7ghz Gigabyte GA-8LD533 m/b onboard sound;video ;10/100 Lan USB2.0 + fan.,119.00
+CMI-105,Combo Intel Celeron 1.8ghz Gigabyte GA-8LD533 m/b + fan.,149.00
+CMI-106,Combo Intel Celeron 1.8ghz Gigabyte GA-8LS533 m/b + fan.,145.00
+CMI-107,Combo Intel P4 1.8ghz CPU + Fan(BOx) w/ Intel D845PESV P4 M/B Socket 478.,235.00
+CMI-108,Combo Intel P4 2.4ghz CPU + Fan(BOx) w/ Intel D845PESV P4 M/B Socket 478.,275.00
+CMI-109,Intel P4 3.06 HT CPU & Intel D845PEBT2 M/B onboard Raid and S-ATA,589.00
+CMI-110,Combo Intel P4 1.8ghz CPU + Fan(BOx) w/ Gigabyte GA-8IE800 Intel®845E Chipset.,225.00
+CMI-111,Combo Intel P4 2.4ghz CPU + Fan(BOx) w/ Gigabyte GA-8IE800 Intel®845E Chipset.,265.00
+CMI-112,Combo Intel Celeron 1.7Ghz (Box CPU)+ Biostar U8668D m/b (478pin)CPU & Fan Support .,118.00
+CMI-113,Combo Intel Celeron 1.8Ghz (Box CPU)+ Biostar U8668D m/b (478pin)CPU & Fan Support .,139.00
+CMI-114,Combo Intel P4 3.06ghz CPU + Fan(BOx)with Hyper Threading w/ Intel D845PESV P4 M/B DDR-333 support.,519.00
+CMI-115,GA-SINXP1394(GA-8SQ800 Ultra2) (SiS 655 Chipset) w/ Pentium 4 2.4 Ghz (Box CPU),319.00
+CMI-116,Asus P4C800 Deluxe intel 875 Chip 800FSB DDR SATA ATA133 RAID GIGABIT LAN USB2.0 ATX Retail Box + Intel Pentium 4 3.0Ghz; 800MHz FSB; Fan; Retail Box CPU/MB.,618.00
+CMI-117,Asus P4C800 Deluxe intel 875 Chip 800FSB DDR SATA ATA133 RAID GIGABIT LAN USB2.0 ATX Retail Box + Intel Pentium 4 2.4Ghz; 800MHz FSB; Fan; Retail Box CPU/MB.,399.00
+CMI-118,Combo Intel P4 3.06ghz CPU + Fan(BOx)with Hyper Threading w/ Gigabyte 8IPE1000 Pro MotherBoard.,549.00
+CMI-119,Combo Intel P4 2.4ghz CPU + Fan(BOx) FSB800 with Hyper Threading w/ Gigabyte 8IPE1000 Pro MotherBoard(Intel 865G chipset Support FSB800).,299.00
+CMI-120,Combo Intel P4 3.0ghz CPU + Fan(BOx) FSB800 with Hyper Threading w/ Gigabyte 8IPE1000 Pro MotherBoard(Intel 865G chipset Support FSB800).,579.00
+CMI-121,Intel D875PBZ M/B onboard S-ATA 150 + Intel Pentium 4 2.4Ghz; 800MHz FSB; Fan; Retail Box CPU/MB.,369.00
+CMI-122,Intel D875PBZ M/B onboard S-ATA 150 + Intel Pentium 4 3.0Ghz; 800MHz FSB; Fan; Retail Box CPU/MB.,595.00
+CP-002,AMD XP 2800+ Retail box.,188.00
+CP-003,Intel Celeron 1.3GHz 256k S370 FCPGA2 (Retail Box),43.00
+CP-004,Intel P4 2.4 Ghz CPU BOX (800Mhz),179.00
+CP-005,AMD XP 2700+ Retail box. (with 333Mhz Front Side Bus),142.00
+CP-006,Intel P4 3.0Ghz FSB 800MHZ (478)pin(HT) 3 Year MFG Warr.,439.00
+CP-007,AMD XP 1800+ Box CPU and Fan,56.00
+CP-008,AMD XP 2500+ Barton Retail Box (with 333Mhz Front Side Bus w/ 512k Cache).,92.00
+CP-009,AMD XP 2000+ Box/with AMD Fan,68.00
+CP-010,AMD XP 2600+ Retail box. (with 333Mhz Front Side Bus),105.00
+CP-015,Intel P4 1.8 Ghz CPU BOX (533Mhz),132.00
+CP-017,Intel Celeron 2.2Ghz 478 pin Box cpu + fan,75.00
+CP-019,AMD XP 2100+ Box w/Fan,74.00
+CP-020,Intel P4 2.4 Ghz CPU BOX (533Mhz),175.00
+CP-025,Intel Celeron 1.8Ghz 478 pin Box cpu + fan,63.00
+CP-028,Intel Celeron 1.7Ghz 478 pin Box cpu + fan,59.00
+CP-038,Intel P4 3.06Ghz (478)pin(HT) 3 Year MFG Warr.,409.00
+CP-040,Intel Celeron 2.0Ghz 478 pin Box cpu + fan,69.00
+CP-041,Intel P3 1.13 GMhz FC-PGA 256KB PC133 OEM,109.00
+CP-045,AMD Duron 1.3 Ghz (Oem),35.00
+CP-048,AMD XP 2200+ Retail box.,76.00
+CP-049,AMD XP 2400+ Retail box.,87.00
+CP-052,AMD XP 3000+ Barton Box. (with 333Mhz Front Side Bus w/ 512k Cache).,267.00
+RD-014,Sony Black 16X DVD .,39.50
+RD-027,LG Goldstar 16X DVD with audio cable OEM,35.00
+RD-035,Mitsumi DW-7801TE DVD Duplicator/Burner.,199.00
+FD-001,Mitsumi 1.44 Floppy Drive,7.00
+FD-003,Mitsumi 1.44 Floppy Drive (Black),10.00
+HD-003,Seagate 40GB 5400RPM ATA100,56.00
+HD-012,W.D 120G 7200RPM (1200JB) 8MB Cache and 3 year MDW,118.00
+HD-017,Seagate 120GB Serial ATA150 7200RPM.,135.00
+HD-020,Maxtor 40G 7200RPM ATA133,58.00
+HD-022,W.D 80.0Gb 7200rpm ATA100 (WD800BB),78.00
+HD-023,Maxtor 30GB 7200RPM ATA133,51.00
+HD-024,Seagate Baraccuda 40Gb 7200rpm,58.00
+HD-035,Seagate 20GB ATA100 5400RPM.,49.00
+HD-036,Seagate 60GB 7200rpm EIDE Hard Drive Barracuda V ST360015A (OEM).,72.00
+ML-003,Removeable ATA100 hard drive tray,10.00
+ML-039,Serial ATA IDE Connector.,8.00
+ML-040,Serial ATA Power Connector for the Hard Drive.,6.00
+KB-002,Logitech Cordless Elite Duo Optical Kit(KB/MS),69.00
+KB-003,Black RF Wireless Keyboard Track Ball .,39.00
+KB-004,White RF Wireless Keyboard Track Ball .(PS/2 Connector),39.00
+KB-005,Mitsumi PS2 Keyboard,7.00
+KB-006,Mitsumi Win 2000 Internet Keyboard,11.00
+KB-008,LABTEC Internet Keyboard (Spanish Edition).,12.00
+KB-009,LABTEC Cordless Desktop Keyboard & Mouse (Spanish Edition).,35.00
+KB-013,Microsoft Internet Keyboard AND MOUSE,20.00
+KB-015,Mircosoft Ergonomic Keyboard and Mouse Set.,29.00
+KB-017,Microsoft Wireless Optical Desktop .,69.00
+KB-018,Black RF Wireless Keyboard Track Ball (USB) w/ Antenna.,45.00
+ME-008,256Mb DDR PC2100 (Micron),42.00
+ME-009,512Mb DDRam PC2100 (one piece) Micron,84.00
+ME-010,128Mb PC2100 266Mhz DDR Ram ( Micron ),23.00
+ME-013,512Mb SDRam PC133,74.00
+ME-014,256Mb PC133 SDRam Micron 168 PIN SDRAM - Lifetime Warranty! We offer a 100% Compatibility Guarantee. 7.5ns PC133,39.00
+ME-015,128Mb SDRAM PC133 Micron;Lifetime Warranty! We offer a 100% Compatibility Guarantee. 7.5ns PC133,22.00
+ME-016,512Mb DDR PC2100 Kingston,85.00
+ME-017,512MB DDR PC3200 Kingston Hyper X (KHX3200/512 ),145.00
+ME-019,256MB DDR 400 (PC3200) Kingston(KVR400X64C3/256),59.00
+ME-019,64Mb RDRam SAMSUNG Must be used in pairs,29.00
+ME-020,512MB DDR400 PC3200 Kingston(KVR400X64C25/512 ),119.00
+ME-021,128Mb SDRam PC133 Kingston,23.00
+ME-022,256Mb SDRam PC133 Kingston,40.00
+ME-023,128Mb DDRam PC2100 Kingston,24.00
+ME-024,256Mb DDRam PC2100 Kingston,43.00
+ME-025,512Mb SDRam PC133 Kingston,75.00
+ME-026,512MB DDR400 PC3200 Kingston(KVR400X64C3/512 ),109.00
+ME-029,512Mb DDR 333 PC2700 (samsung),88.00
+ME-031,256Mb DDR 333 PC2700 (samsung),44.00
+ME-032,512mb DDR ECC Registerd. For Dual Processor Server MotherBoards.,125.00
+ME-033,256MB DDR PC2700 Kingston,45.00
+ME-034,512MB DDR PC2700 Kingston(KVR333X64C25/512),89.00
+FM-006,AMR 56K V.90 Modem Riser Card,4.00
+FM-008,CNet External 56k V.92 Fax modem (Serial).,39.00
+FM-010,PCI 56K V.92 Fax Modem,10.00
+FM-011,US Robotics 56K V.90 PCI Modem with Voice,18.00
+MT-002,SVA-USA VR-15A 15" TFT LCD Display.,255.00
+MT-005,AOC 17" Monitor 7Elr .27mm Dot Pitch,115.00
+MT-007,AOC 15" Monitor .27mm Pitch,78.00
+MT-009,AOC 19" Monitor .26 9GLR,149.00
+MT-010,AOC LM520 Flat Screen (LCD) 15" Monitor,255.00
+MT-013,AOC 17" Monitor 7FSLK .25mm Dot Pitch TureFlat,125.00
+MT-014,SVA-USA VR-17S 17" TFT LCD Display.,375.00
+MT-016,KDS 15" Flat Screen LCD monitor (black).,329.00
+MT-018,SVA-USA VR-15B 15" TFT LCD Display.,295.00
+MT-020,14inch LCD MG-015A Xgen2 Monitor.,198.00
+MB-002,Intel D845PESV P4 M/B DDR-333 support.,99.00
+MB-004,Biostar M7VIK SKT A AMD® DDR400 AGP 8x ;onboard Raid & Sound & 1394 .,77.00
+MB-010,ASUS P4C800 Deluxe Skt 478 Intel 875P (800MHZ FSB).,198.00
+MB-011,ASUS A7N8X Deluxe NVIDIA Force2 .,129.00
+MB-012,ASUS P4SDX SiS655 Chipset Dual Channel DDR333.,89.00
+MB-018,Biostar M7VIG-Pro Skt A MotherBoard w/ OnBoard Video/sound/Lan.,56.00
+MB-023,Biostar M7VKQ Pro Skt A MotherBoard w/ OnBoard Video/sound/Lan.,46.00
+MB-024,Intel D845PEBT2 M/B onboard Raid and S-ATA .,129.00
+MB-033,Biostar U8668D P4 uATX M/B (VIA P4M266 478pin) with AMR ;Support DDR and 533MhZ FSB; onboard Sound & Video & AGP Slot,48.00
+MB-035,Gigabyte GA-8IE800 Intel®845E Chipset.,89.00
+MB-041,Gigabyte GA-7DPXDW-P Dual AMD Server board w/RAID up to 4GB of Registered DDR memory,239.00
+MB-042,Gigabyte GA 7DPXDW-c Dual AMD server board,189.00
+MB-046,Gigabyte GA-7VKMLE,69.00
+MB-048,GA-7VA VIA KT400 chipset 8X AGP DDR400 onboard Sound.,69.00
+MB-050,GA-8LD533 Intel®845GL Chipset VC/SC/Lan.,65.00
+MB-052,Gigabyte GA-7VAXP AMD Motherboard. VIA KT400 RAID ATA133 with DDR support,119.00
+MB-056,Gigabyte GA-8IPE1000 Pro (intel 865PE Chipset) Pentium 4 ;DDR400 and FSB 800.,105.00
+MB-057,Gigabyte GA-8SG800 Mother Board W/ SiS 648 chipset.,69.00
+MB-058,GA-7N400L nForce 2 Ultra400 chipset.,89.00
+MB-060,GA-7N400 Pro nForce 2 Ultra400 chipset.,129.00
+MB-061,GA-7VT600-L VIA KT600 chipset.,70.00
+MB-062,Intel D875PBZ M/B onboard S-ATA 150.,179.00
+MB-063,Gigabyte GA-7NNXP MotherBoard w/ Nforce2 400 chipset.,185.00
+MS-001,Logitech Cordless Optical Mouse.,38.00
+MS-002,Mitsumi PS/2 Net scroll 5 button mouse,4.00
+MS-004,PS2 2 Button Mouse,3.00
+MS-006,Microsoft Wireless Optical Mouse Blue.,38.00
+MS-009,Logitech Optical Mouse,16.00
+MS-011,Mitsumi optical mouse.,10.00
+NC-004,10/100 REALTEK NETWORK CARD 8139 chipset RETAIL BOX,10.00
+NC-005,3Com 905cx-txm NIC (Network Interface Card),28.00
+NC-008,10/100 16 Port Switch,79.00
+NC-011,Double RJ45 Surface Mount,6.00
+NC-012,Fast Ethernet 10/100 8 port switching hub,18.00
+NC-013,ADS USB 4 Port Hub,25.00
+NC-014,10ft Cat 5 network cable w/RJ45 connectors,8.00
+NC-023,5ft Cat5 network cable w/RJ45 connectors,5.00
+NC-027,Cable/DSL Broadband Router (w/ 4-port Switch) (EE400-R).,45.00
+CS-003,400 Watt UL ATX Power Supply Support AMD; P3;P4;and with Dual Fan.,14.00
+CS-004,ATX 300W High Quality Switching Power Supply,8.00
+CS-015,Allied 300watt Powersupply; Intel P4 and AMD XP and Barton approved.,35.00
+CS-051,Allied 400watt Powersupply; Intel and AMD approved.,45.00
+CS-055,500W P4 Dual Fan Codegen Power supply.,45.00
+CS-058,Achieve Gold Dual Fan 550Watt PowerSupply.,45.00
+PT-002,HP 1300 Laser Jet New.,365.00
+PT-003,Epson Stylus C42UX - C11C482001.,49.00
+PT-004,hp deskjet 3820 printer - specifications and warranty.,99.00
+PT-012,Hewlett Packard Color Deskjet HP 3420 .( Comes with Sample of HP Paper. HP Bright White Paper; HP Glossy Paperm; and HP inkjet Paper).,61.00
+GM-005,PowerColor 128MB USB Portable MP3 Player.,55.00
+HD-007,Maxtor External 80Gb Hard drive USB&USB2,169.00
+NC-010,ADS External USB 2.0 Drive Kit,85.00
+NC-017,Promise Fast Track ATA 100 RAID Controller Kit.,189.00
+TB-009,Iomega Internal EIDE 250MB Zip Drive - OEM Version .,78.00
+VC-016,ADS Technologies Firewire External Drive.,69.00
+SN-007,Visioneer 5800 48bit USB Scanner XP compatable,38.00
+SW-002,Microsoft Office XP Small Business Edition,175.00
+SW-005,Windows 2000 w/Service Pack 3(NEW) OEM Full Version LICENCED,136.00
+SW-007,Microsoft Windows XP Home Full Registered.,85.00
+SW-010,Windows XP Pro Registered OEM,134.00
+SW-011,MicroSoft Windows Server 2003 W/ 10 Licenses.,849.00
+SC-002,Sound Blaster Audigy with 1394 firewire (oem),59.00
+SC-003,Sound Blaster PC128 Sound card,15.00
+SC-010,Creative Sound Blaster LIVE 5.1 (OEM - SB0220 ).,28.00
+SK-002,Creative Inspire 5200 5.1 surround sound.,65.00
+SK-004,CP-691 Stereo Speakers,5.00
+SK-005,Desk Top Microphone,1.00
+SK-008,Boka 2000 Sub Woofer Speaker System,29.00
+SK-010,Headphone & Mic,2.00
+SK-010,Headset with Mircophone.,3.00
+SK-012,Boka 306 Sub Woofer Flat Speaker system,20.00
+SK-013,Benwin S54 Surround Sound Speakers.,29.00
+SK-014,Boka 1050 Sub Woofer and Speakers,9.00
+SK-015,Flat Panel Speakers Boka-206,6.00
+SK-016,Boka 406 Sub Woofer 4 Channel Speaker system,35.00
+SK-017,Creative Inspire 2.1 2500 surround sound,39.00
+YS-004,YS Intel P4 2.0Ghz Server Solution,895.00
+YS-005,YS Intel Celeron 1.1GHz Work Station Series,299.00
+YS-006,AMD 1.1Ghz Starter Series / Work Station.,299.00
+YS-010,YS AMD XP 2000+ Performance System,545.00
+YS-015,YS Intel P4 2.0Ghz POWER SYSTEM,595.00
+YS-018,AMD Server Solution YS XP2000+ 266 FSB Raid Server,875.00
+YS-019,AMDXP1800/128M/30G Black Complete System.,229.00
+YS-020,Black Complete Computer System w/ Mouse KeyBoard and Speakers(Free AMR Moden). (Duron 1.3),209.00
+YS-021,AMDXP2000/128M/30G Black Complete System.,255.00
+YS-022,AMDXP2200/128M/30G Black Complete System.,265.00
+YS-023,AMDXP2400/128M/30G Black Complete System.,275.00
+YS-024,Intel Celeron 1.7Ghz/128M/30G Black Complete System.,239.00
+YS-025,Intel Celeron 1.8Ghz/128M/30G Black Complete System.,249.00
+YS-026,Intel Celeron 2.0Ghz/128M/30G Black Complete System.,259.00
+YS-027,Pentiume 4 1.8Ghz/128M/30G Black Complete System.,319.00
+YS-028,Pentiume 4 3.0Ghz 800FSB/512M/80G Black Complete System.,889.00
+YS-029,AMD Duron 1.1/128M/30G Black Complete System.,199.00
+UP-001,Cyber Power 325SL Battery Back Up,35.00
+UP-004,CyberPower 1500VA UPS Upto 135 minutes,239.00
+UP-005,Cyber Power 725VA Battery Back Up,69.00
+UP-011,Cyber Power 1250VA Back Up.,135.00
+UP-017,Cyber Power 1000VA Back Up W/Automatic Voltage Regulator,113.00
+UP-018,CyberPower 525VA(525SL),48.00
+UP-019,CyberPower Surge Protector 850 with 8 Outlet.,16.00
+UP-020,CyberPower PhoneSaver,19.00
+VC-009,ATI Radeon 7000 VIVO 64mb DDR AGP .,55.00
+VC-012,ATI RADEON 9200™ SE 128M DDR DVI+TV-Out 8X AGP (R92LE-C3S).,65.00
+VC-019,ATI Radeon 9800 Pro 128MB Gold Edition.,375.00
+VC-023,ATI Radeon 7500 PCI 64M w/ TV out and DVI.,69.00
+VC-025,GeForceFX 5200 128MB DDR (Light Version) DVI + TV-out and software DVD.,79.00
+VC-030,TV Tuner card PCI (KWorld M878A),39.00
+VC-034,ATI Radeon 9600 256MB DVI+CRT+TV 8X .,175.00
+VC-035,ATI Radion 7000 64Mb SD CRT+TV-Out,35.00
+VC-041,DVI to 15pin CRT adapter,10.00
+VC-045,ATI Radion 7000; 64Mb DDR AGP +CRT+DVI+TV,35.00
+VC-048,ATI Radeon 7000 32MB DDR PCI CRT+DVI+TV.,39.00
+NC-019,Linksys Wireless PCI card (WMP11),65.00
+NC-020,Linksys USB Wireless (WUSB11),59.00
+NC-022,Wireless Access Point Router with 4-Port Switch - Version 3.2 (BEFW11S4),85.00
+NC-025,Linksys Instant Wireless Network Adapter - Version 3.0 for Notbooks. (Model No. WPC11 ver.3),59.00
+ABB-001,Biostar M7VKQ Duron 850Mhz B/B w/Video/Sound &10/100 LAN 312case.,106.00
+ABB-025,AMD XP 1700+ & Biostar M7VKQ w/ 313N case . W/ Free AMR 56k & PS2 Mouse.,121.00
+ABB-054,AMD XP 1700+ & Gigabyte GA-7DXE MB w/ 313N Case. W/ Free PS2 Mouse.,159.00
+ABB-056,AMD XP 1900+ & Gigabyte GA-7DXE MB w/ 313M Case,179.00
+ABB-060,AMD Duron 1.3Ghz & Gigabyte GA-7VKML MB w/ 312J Color Case. W/ Free PS2 Mouse.,105.00
+ABB-061,AMD XP 1700+ & Gigabyte GA-7VKML MB w/313N case. W/ Free PS2 Mouse.,159.00
+ABB-062,AMD XP 1800+ & Gigabyte GA-7VKML MB w/ 313M case W/ Free PS2 Mouse.,169.00
+ABB-063,AMD XP 1900+ & Gigabyte GA-7VKML MB w/ 313M case,179.00
+ABB-064,AMD XP 2000+ & Gigabyte GA-7VKML MB w/ 313M case W/ Free PS2 Mouse.,189.00
+ABB-065,AMD XP 2100+ (Box) & Gigabyte GA-7VKML MB w/ 313M Case. W/ Free PS2 Mouse.,199.00
+ABB-074,AMD XP 1800+ & Gigabyte GA-7VR MB w/ 313N Case. W/ Free PS2 Mouse.,265.00
+ABB-078,AMD XP 1700+ & Gigabyte GA-7VKMLS MB w/ 313N Color Case. W/ Free PS2 Mouse.,149.00
+ABB-080,AMD XP 1900+ & Gigabyte GA-7VKMLS MB w/ 313M Color Case.,169.00
+ABB-087,AMD XP 1900+ & Gigabyte GA-7ZXE MB w/ 313M Case,179.00
+ABB-089,AMD XP 1700+ & Gigabyte GA-7ZXE MB w/ 313N Case. W/ Free PS2 Mouse.,159.00
+ABB-096,Combo AMD XP 2700+ CPU; Gigabyte GA-7VA M/B(W/8X AGP;DDR333 up to 3GB/ATA133 ) +Fan.,399.00
+ABB-111,AMD Duron 1.2MHz & Biostar M7VIG-Pro MB w/ 312J case. Free PS2 Mouse.,110.00
+CMA-021,Biostar M7VKD AMD 1Ghz Duron + Cooler Master Fan,129.00
+CMA-045,xAMD XP 1600+ Biostar M7VIB M/B + Cooler master fan,200.00
+CMA-053,AMD XP 1800+ Biostar M7VIG Pro m/b + Cooler Master fan,119.00
+CMA-068,Combo AMD XP 1700+ Gigabyte GA-7VKML M/B + Fan,118.00
+CMA-069,Combo AMD XP 1800+ Gigabyte GA-7VKML M/B + Fan,125.00
+CMA-070,Combo AMD XP 1900+ Gigabyte GA-7VKML M/B + Fan,165.00
+CMA-071,Combo AMD XP 2000+ Gigabyte GA-7VKML MB,135.00
+CMA-072,Combo AMD XP 2100+ (Box CPU)Gigabyte GA-7VKML M/B + Fan,149.00
+CMA-099,Combo AMD XP 2100+ w/ Cpu Fan & Biostar M7VKQ +,241.00
+CMA-100,Combo AMD XP 1700+ cpu Gigabyte GA-7DXE Motherboard + Fan,115.00
+CMA-102,Combo AMD XP 1900+ cpu Gigabyte GA-7DXE Motherboard + Fan,159.00
+CMA-107,Combo AMD Duron 1.2Ghz + Biostar M7VKQ mb & fan (Free AMR Modem.),85.00
+CMA-113,Combo AMD Duron 1.2Ghz cpu Gigabyte GA-7VKMLS m/b fan.,89.00
+CMA-117,Combo AMD XP 1900+ cpu Gigabyte GA-7VKMLS m/b fan.,152.00
+CMA-122,Combo AMD XP 1900+ cpu Gigabyte GA-7ZXE Motherboard + Fan,159.00
+CMA-124,Combo AMD XP 1700+ cpu Gigabyte GA-7ZXE Motherboard + Fan,109.00
+CMA-131,Combo AMD XP 2400+ CPU; Gigabyte GA-7VR M/B(W/DDR333 up to 3GB/ATA133) .,245.00
+CMA-132,Combo AMD XP 2600+ CPU; Gigabyte GA-7VR M/B(W/DDR333 up to 3GB/ATA133) .,330.00
+CMA-137,Combo AMD XP 2700+ CPU; Gigabyte GA-7VA M/B(W/8X AGP;DDR333 up to 3GB/ATA133 ) +Fan.,369.00
+CMA-149,Combo AMD Duron 1.2Ghz Biostar M7VIG-Pro Skt A MotherBoard w/ OnBoard Video/sound/Lan.,95.00
+CMA-160,ASUS A7N8X Deluxe NVIDIA Force2 w/ AMD XP 2700+ CPU.,289.00
+CMI-014,Combo Intel P4 1.8ghz Gigabyte GA-8LS533 m/b + fan.,209.00
+CMI-015,Combo Intel P4 2.0ghz Gigabyte GA-8LS533 m/b + fan.,239.00
+CMI-051,Combo Intel P4 2.0Ghz (Box CPU)+ Biostar M7SXF m/b (478pin)CPU & Fan,359.00
+CMI-060,Combo Intel P4 1.6Ghz (512k cache) 845WN M/B & Fan (478pin),267.00
+CMI-067,Combo Intel P4 1.6ghz CPU + Fan (BOX);Biostar M7SXF P4 478pin M/B Support DDR DIMM,194.00
+CMI-068,Combo Intel P4 1.7ghz CPU + Fan(Box);Biostar M7SXF P4 478pin M/B Support DDR DIMM,236.00
+CMI-069,Combo Intel P4 1.9ghz CPU + Fan(BOx)Biostar M7SXF P4 478pin M/B Support DDR DIMM,344.00
+CMI-070,Biostar M7SXF P4 478pin M/B Intel P4 1;8ghz CPU + Fan(BOx)Support DDR DIMM,275.00
+CMI-075,Combo Intel Celeron 1.1Ghz (Box)Tulatin core Biostar M6VLR m/b (Free AMR Modem.),94.00
+CMI-076,Combo Intel P4 1.8Ghz 478pin(box)CPU + Gigabyte GA-8IRX (DDR up to 2GB/4 USB)M/B + Fan,327.00
+CMI-079,Combo Intel Celeron 1.2Ghz Biostar M6VLR m/b fan (Free AMR Modem.),95.00
+CMI-080,1.7Ghz Intel Celeron(box)478pin+ Biostar M7SXF M/b +fan,147.00
+CMI-081,Combo Intel Celeron 1.7ghz (box)478pin +Gigabyte GA8IRX M/b +fan,199.00
+CMI-084,Combo Intel P4 1.8ghz CPU + Fan(BOx) w/ Biostar U8668 P4 M/B Socket 478 Support SD.,235.00
+CMI-086,Combo Intel P4 1.9Ghz (Box CPU)+ Biostar U8668 m/b (478pin)CPU & Fan Support SD.,269.00
+CMI-088,Combo Intel P4 1.6Ghz (Box CPU)+ Biostar U8668 m/b (478pin)CPU & Fan Support SD.,200.00
+CMI-093,Combo Intel Celeron 1.7Ghz retail CPU + Gigabyte GA-8ID533 M/B + Fan.,155.00
+CMI-094,Combo Intel P4 1.6Ghz retail CPU + Gigabyte GA-8ID533 M/B + Fan.,205.00
+CMI-095,Combo Intel P4 1.7Ghz retail CPU + Gigabyte GA-8ID533 M/B + Fan.,215.00
+CMI-096,Combo Intel P4 1.8Ghz retail CPU + Gigabyte GA-8ID533 M/B + Fan.,225.00
+CMI-097,Combo Intel P4 2.0Ghz retail CPU + Gigabyte GA-8ID533 M/B + Fan.,259.00
+CMI-098,Combo Intel P4 2.4Ghz retail CPU + Gigabyte GA-8ID533 M/B + Fan.,289.00
+CMI-099,Combo Intel P4 1.6Ghz 478pin(box)CPU + Gigabyte GA-8IRX (DDR up to 2GB/4 USB)M/B + Fan.,238.00
+CMI-100,Combo Intel P4 2.0Ghz 478pin(box)CPU + Gigabyte GA-8IRX (DDR up to 2GB/4 USB)M/B + Fan.,289.00
+CMI-100,Combo Intel P4 2.0Ghz retail CPU + Gigabyte GA-8IE533 M/B + Fan.,279.00
+CMI-101,Combo Intel P4 1.8Ghz retail CPU + Gigabyte GA-8IE533 M/B + Fan.,259.00
+CMI-103,Combo Intel P4 1.8ghz Gigabyte GA-8LD533 m/b + fan.,215.00
+CMI-104,Combo Intel P4 2.0ghz Gigabyte GA-8LD533 m/b + fan.,245.00
+CP-002,AMD XP 2000+ (OEM),90.00
+CP-013,AMD Duron 1.1Ghz (1100 Mhz) OEM,28.00
+CP-015,Intel P4 1;8Ghz (478)pin 512K 3 Year MFG warr.,149.00
+CP-024,AMD MP 1900+ OEM cpu,168.00
+CP-026,Intel P4 1;6Ghz Box CPU (478pin)(256KB L2 Cache),121.00
+CP-027,Intel P4 1;7Ghz Box CPU+fan (478 pin),130.00
+CP-029,Intel Pentium 4 2.0 GHz 512k 400MHz FSB( Socket 478 )Retail Box,172.00
+CP-030,AMD XP 1900+ OEM,73.00
+CP-032,AMD XP 2500+ Barton (OEM). (with 333Mhz Front Side Bus w/ 512k Cache).,165.00
+CP-033,AMD XP 1600+ CPU (OEM),71.00
+CP-035,AMD Duron 1.2Ghz OEM,31.00
+CP-036,AMD XP 1800+ (oem),72.00
+CP-042,Intel Celeron 1.1Ghz CPU Box (256K cache)PPGA2,41.00
+CP-043,AMD XP 2100+ CPU (oem)(AXDA2100DUT3C; RevisionB).,90.00
+CP-044,Intel Celeron 1.0 Ghz skt 370 PPGA (BOX),50.00
+CP-047,AMD XP 2200+ CPU Oem,140.00
+CS-010,312B ATX Case with 300W P4/P3/AMD PS.,17.00
+CS-020,313K 300W P4/AMD and Free Case Fan and 2 Front USB.,24.00
+CS-031,313N-B ATX case 300W P4/AMD Free Fan and 2 Front USB.,24.00
+CS-033,6066-C10 ATX Black Mid case 350W w/ 2 Front USB; 1 Mic; 1 Headset.,38.00
+CS-050,313H ATX 400w Case W/ case Fan P4/P3/AMD.,30.00
+CS-059,312B ATX Case with 400Watt P4/P3/AMD Ready PS.,20.00
+CS-066,312J ATX Case with 400W P4/P3/AMD PS,25.00
+CS-068,312D ATX color case translucent blue(No PowerSupply).,9.00
+CS-072,312D ATX color case(translucent blue) with 400Watt P4/P3/AMD Support PS.,24.00
+CS-077,312B ATX Case with 300W P4/P3/AMD PS. USB Ready.,20.00
+CS-077,312B ATX Case 250W P4/AMD Ready Power Supply.,14.00
+CS-078,312B ATX Case with 250W P4/P3/AMD PS.,16.00
+CS-079,312B ATX Case (No Power Supply),9.00
+CS-092,312D ATX color case(translucent blue) with 250Watt P4/P3/AMD Ready PS.,15.00
+CS-095,312J ATX color case(translucent blue) with 400Watt P4/P3/AMD Ready PS.,20.00
+HD-015,WD Caviar 20.0G 7200rpm Hard Drive,65.50
+HD-016,Maxtor 40Gb ATA100 5400rpm H/D,76.00
+HD-044,Western Digital 20GB 5400RPM ATA100,57.50
+IBB-007,Intel Pentium4 2.0ghz & Gigabyte 8IE533 MB w/ 313N Case. W/ Free PS2 Mouse.,289.00
+IBB-008,Intel Pentium4 1.8ghz & Gigabyte GA-8LS533 MB w/ 313N Case. W/ Free PS2 Mouse.,235.00
+IBB-010,Intel Pentium4 1.8ghz & Gigabyte GA-8LD533 MB w/ 313N Case. W/ Free PS2 Mouse.,240.00
+IBB-013,Intel Celeron 1.8ghz & Gigabyte GA-8LD533 MB w/ 313N Case. W/ Free PS2 Mouse.,156.00
+IBB-015,Intel Pentium4 2.0ghz & Gigabyte GA-8LS533 MB w/ 313N Case. W/ Free PS2 Mouse.,265.00
+IBB-019,Intel P4 1;6Ghz Bare Bone,355.00
+IBB-020,Intel Pentium4 1.7Ghz & Biostar M7TDB MB w/ 313M Case.,295.00
+IBB-021,Intel Pentium4 1.6Ghz & Biostar M7TDB MB w/ 313M Case.,265.00
+IBB-022,Intel P4 1;6Ghz Bare Bone CPU & Fan;,385.00
+IBB-026,Intel Pentium4 1.8ghz & Biostar U8668 MB w/ 313N Case. W/ Free CNR 56k & PS2 Mouse.,245.00
+IBB-027,Intel Pentium4 1.9ghz & Biostar U8668 MB w/ 313N Case. W/ Free CNR 56k & PS2 Mouse.,265.00
+IBB-031,Intel P4 1;7Ghz + Intel 845wn M/B;fan and ATX6053 Case w/350w power supply,319.00
+IBB-032,Intel Celeron 1.2Ghz & Biostar M6VLR MB w/ 312J Color Case. W/ Free AMR 56k & PS2 Mouse.,109.00
+IBB-033,Intel Celeron 1.1Ghz & Gigabyte GA6VEML MB w/ 312D Color Case. W/ Free PS2 Mouse.,109.00
+IBB-034,Intel Celeron 1.2Ghz & Gigabyte GA6VEML MB w/ 312J Color Case. W/ Free PS2 Mouse.,115.00
+IBB-037,Intel Pentium4 2.0ghz & Gigabyte 8IRX MB w/ 313N Case.,289.00
+IBB-038,Intel Pentium4 2.0ghz & Gigabyte 8IRXP MB w/ 313N Case. W/ Free PS2 Mouse.,349.00
+IBB-039,Intel Pentium4 2.0ghz & Gigabyte 8ID533 MB w/ 313N Case. W/ Free PS2 Mouse.,269.00
+IBB-040,Intel Pentium4 2.4ghz & Gigabyte 8IRX MB w/ 313M Case.,329.00
+IBB-041,Intel Pentium4 2.4ghz & Gigabyte 8IRXP MB w/ 313N Case. W/ Free PS2 Mouse.,399.00
+IBB-042,Intel P4 2.4ghz,299.00
+IBB-043,Intel Pentium4 1.6ghz & Gigabyte 8ID533 MB w/ 313N Case. W/ Free PS2 Mouse.,219.00
+IBB-044,Intel Pentium4 1.7ghz & Gigabyte 8ID533 MB w/ 313N Case. W/ Free PS2 Mouse.,229.00
+IBB-111,Intel Pentium4 2.4ghz & Gigabyte GA-8IE800 MB w/ 313N Case. W/ Free PS2 Mouse.,289.00
+MB-001,Intel D 850MV P4 M/B RDRam support,149.00
+MB-007,Biostar M7VKB Ver2.0 ATA100 socket A (w/30 day limit warranty),48.00
+MB-008,Biostar M6VLR skt 370 Motherboard,45.00
+MB-010,Biostar M6TWL skt 370 Motherboard. (D.O.A 30 days),45.00
+MB-011,BIOSTAR M6TSL skt370 m/b (30 day D.O.A Warranty),39.00
+MB-012,Biostar M6VCG skt 370 m/b (30 day D.O.A Warranty),35.00
+MB-014,Biostar M6VLB Intel PPGA (w/30day limit warranty),29.00
+MB-017,Biostar M7VKD-Pro AMD Skt A M/B VIA KT133 / 686B 266/200 Mhz FSB SD Ram ATA100(30 day D.O.A Warranty),58.00
+MB-021,Biostar M6TSU M/B(30 day D.O.A Warranty),59.00
+MB-026,Intel D845WN 478Pin SDRAM retail Box,95.00
+MB-029,Biostar M6VCF MICRO ATX M/B(w/30 day D.O.A. warranty),47.00
+MB-045,Gigabyte GA-6VEML skt 370 M/B (With onboard sound and Video and Realtek Lan),59.00
+MB-048,Gigabyte GA-7VA Motherboard w/ AGP 8x.,76.00
+MB-050,Gigabyte GA-8SMMLP SiS650GX Chipset.,78.00
+MB-055,Gigabyte GA-7VAC SKT A AMD® DDR400 / KT333.,68.00
+MB-089,Biostar M6TBA skt 370 Motherboard. (D.O.A 30 days),48.00
+MB-111,Intel D845PEBT2 P4 M/B DDR-333 & 533MHz FSB.,149.00
+ME-011,128Mb RDRam 800Mhz Kingston,44.00
+ME-017,C Rimm,5.00
+ML-028,Cooler Master Ball Bearing Case Fan,5.00
+ML-036,Cooler Master DP5-6J31C AMD Approved HeatSync.,12.00
+NC-001,ADS USB2000 USB Turbo 2.0 pci Controller card,23.00
+NC-021,Linksys Wireless Access Point (WAP11),79.00
+RD-029,Sony 16X DVD-CDRom (OEM),42.00
+RD-030,Mitsumi 48x 12 x 40 CD-RW,59.00
+SC-009,Creative Sound Blaster,9.00
+SW-011,MicroSoft Windows Server 2003 W/ 10 Licenses.,849.00
+SW-014,Microsoft Office 2000 Small Biz edition,175.00
+VC-001,Logitech Smart Click 310 Camera,46.00
+VC-013,SIS Xabre200 64MB DDR AGP 8X DVI+TV+CRT by Power Color,69.00
+VC-031,Matrox Dual Head G550 With 32 MB of Double Data Rate (DDR) memory; a 360. MHz primary RAMDAC.OEM package,54.00
+VC-037,ATI Radeon 7000 32MB DDR TV-Out&DVI,44.00
+VC-048,ATI Radeon 7000 32MB DDR PCI CRT+DVI+TV.,45.00
+YS-017,YS AMD T-Bird 1.2 Ghz Performance Series,659.00

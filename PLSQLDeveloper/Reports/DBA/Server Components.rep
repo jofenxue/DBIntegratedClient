@@ -1,0 +1,70 @@
+PL/SQL Developer Report
+
+[SQL]
+select banner component from v$version
+
+[Options]
+Connect=False
+Username=
+Password=2546
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2330
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Server Components
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+
+
+[CSS]
+

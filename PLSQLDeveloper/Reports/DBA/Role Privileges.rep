@@ -1,0 +1,88 @@
+PL/SQL Developer Report
+
+[SQL]
+select p.* from dba_role_privs p
+where p.grantee like &<name="Grantee"
+                       hint="The grantee user or role (wildcards allowed)"
+                       type="string"
+                       default="%"
+                       ifempty="%"
+                       list="select role from dba_roles 
+                             union all 
+                             select username from dba_users 
+                             union all
+                             select 'PUBLIC' from dual
+                             order by 1">
+and p.granted_role like &<name="Granted role"
+                          hint="The granted role (wildcards allowed)"
+                          type="string"
+                          default="%"
+                          ifempty="%"
+                          list="select role from dba_roles order by role">
+order by p.grantee, p.granted_role
+
+[Options]
+Connect=False
+Username=
+Password=2872
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2561
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Role Privileges
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+
+
+[CSS]
+

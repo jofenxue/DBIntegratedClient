@@ -1,0 +1,12 @@
+;PL/SQL Developer SpecialCopy definition
+;<LINE_1> for first line
+;<LINE_*> for all other lines
+;<LINE_N> for last line
+;
+#define " = \"
+#define \ = \\
+#define char(9) = \t
+
+string sqlString = "<line_1>\n" +
+"<line_*>\n" + 
+"<line_n>";

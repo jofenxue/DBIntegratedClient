@@ -1,0 +1,4 @@
+25-01-2010 15:03:34 Begin a new log.
+25-01-2010 15:03:34 TransferManager.RegisterProtocolClass ProtocolID = [FTP]
+25-01-2010 15:03:34 TransferManager.RegisterProtocolClass ProtocolID = [SFTP]
+25-01-2010 15:04:22 End of log.

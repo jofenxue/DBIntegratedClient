@@ -1,0 +1,37 @@
+PLW-05000: mismatch in NOCOPY qualification between specification and body
+PLW-05001: previous use of 'string' (at line string) conflicts with this use
+PLW-05003: same actual parameter(string and string) at IN and NOCOPY may have side effects
+PLW-05004: identifier string is also declared in STANDARD or is a SQL builtin
+PLW-05005: function string returns without value at line string
+PLW-05006: shadow type generation resulted in warning: string
+PLW-05007: first parameter to pragma INLINE must be an identifier
+PLW-05008: illegal number of arguments for pragma string
+PLW-05009: pragma INLINE may not appear in a declaration list
+PLW-05010: duplicate pragma INLINE on procedure 'string'
+PLW-05011: pragma INLINE for procedure 'string' does not apply to any calls
+PLW-05012: pragma INLINE for procedure 'string' could not be applied
+PLW-05013: second parameter to pragma INLINE 'string' is not 'YES' or 'NO'
+PLW-05014: Pragma string cannot be specified here
+PLW-05015: implementation restriction - too many debug records
+PLW-05016: INTO clause should not be specified here
+PLW-05017: prefix of the expression will be ignored
+PLW-06002: Unreachable code
+PLW-06003: unknown inquiry directive 'string'
+PLW-06004: inlining of call of procedure 'string' requested
+PLW-06005: inlining of call of procedure 'string' was done
+PLW-06006: uncalled procedure "string" is removed.
+PLW-06007: procedure "string" is removed because optimization removed calls
+PLW-06008: call of procedure 'string' will not be inlined
+PLW-06009: procedure "string" OTHERS handler does not end in RAISE or RAISE_APPLICATION_ERROR
+PLW-06010: keyword "string" used as a defined name
+PLW-06011: detailed dependency information discarded due to size limitations
+PLW-06012: SQL statement cannot be inlined. string
+PLW-06013: deprecated parameter PLSQL_DEBUG forces PLSQL_OPTIMIZE_LEVEL <= 1
+PLW-06014: PLSQL_OPTIMIZE_LEVEL <= 1 turns off native code generation
+PLW-06015: parameter PLSQL_DEBUG is deprecated; use PLSQL_OPTIMIZE_LEVEL = 1
+PLW-06016: unit string is too large; native code generation turned off
+PLW-07202: bind type would result in conversion away from column type
+PLW-07203: parameter 'string' may benefit from use of the NOCOPY compiler hint
+PLW-07204: conversion away from column type may result in sub-optimal query plan
+PLW-07205: SIMPLE_INTEGER is mixed with BINARY_INTEGER or PLS_INTEGER
+PLW-07206: analysis suggests that the assignment to 'string' may be unnecessary

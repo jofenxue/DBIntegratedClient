@@ -1,0 +1,95 @@
+PL/SQL Developer Report
+
+[SQL]
+select t.* from all_triggers t
+where t.owner like &<name="trigger owner"
+                     hint="The trigger owner (wildcards allowed)"
+                     type="string"
+                     default="select user from dual"
+                     ifempty="%"
+                     list="select username from all_users order by username">
+and t.trigger_name like &<name="trigger name"
+                          hint="The trigger name (wildcards allowed)"
+                          type="string"
+                          default="%"
+                          ifempty="%"
+                          list="select trigger_name from all_triggers where owner like :trigger_owner order by trigger_name">
+and t.table_owner like &<name="Table owner"
+                         hint="The owner of the table of the trigger (wildcards allowed)"
+                         type="string"
+                         default="select user from dual"
+                         ifempty="%"
+                         list="select username from all_users order by username">
+and t.table_name like &<name="Table name"
+                        hint="The name of the table of the trigger (wildcards allowed)"
+                        type="string"
+                        default="%"
+                        ifempty="%"
+                        list="select table_name from all_tables where owner like :table_owner order by table_name">
+order by t.owner, t.trigger_name
+
+[Options]
+Connect=False
+Username=
+Password=2373
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2592
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Triggers
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+
+
+[CSS]
+

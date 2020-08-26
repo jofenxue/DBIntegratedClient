@@ -1,0 +1,19 @@
+#
+# Words use by the Smart AutoIndent mode (Tools > Preferences > Editor)
+#
+# Pressing the <Enter> key on a line that starts with any
+# of the following words will indent on the next line
+#
+BEGIN
+IF
+THEN
+ELSE
+ELSEIF
+PROCEDURE
+FUNCTION
+CASE
+WHEN
+LOOP
+WHILE
+FOR
+EXCEPTION

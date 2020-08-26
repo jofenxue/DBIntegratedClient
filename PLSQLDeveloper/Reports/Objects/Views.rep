@@ -1,0 +1,83 @@
+PL/SQL Developer Report
+
+[SQL]
+select v.* from all_views v
+where v.owner like &<name="View owner"
+                     hint="The view owner (wildcards allowed)"
+                     type="string"
+                     default="select user from dual"
+                     ifempty="%"
+                     list="select username from all_users order by username">
+and v.view_name like &<name="View name"
+                       hint="The view name (wildcards allowed)"
+                       type="string"
+                       default="%"
+                       ifempty="%"
+                       list="select view_name from all_views where owner like :view_owner order by view_name">
+order by v.owner, v.view_name
+
+[Options]
+Connect=False
+Username=
+Password=2859
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2451
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Views
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+
+
+[CSS]
+

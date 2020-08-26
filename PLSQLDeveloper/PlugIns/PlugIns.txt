@@ -1,0 +1,2 @@
+This directory can contain PL/SQL Developer Plug-In files
+checkout http://www.allroundautomations.nl/plsqldevaddons.html

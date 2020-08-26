@@ -1,0 +1,83 @@
+PL/SQL Developer Report
+
+[SQL]
+select t.* from all_tables t
+where t.owner like &<name="table owner"
+                     hint="The table owner (wildcards allowed)"
+                     type="string"
+                     default="select user from dual"
+                     ifempty="%"
+                     list="select username from all_users order by username">
+and t.table_name like &<name="table name"
+                        hint="The table name (wildcards allowed)"
+                        type="string"
+                        default="%"
+                        ifempty="%"
+                        list="select table_name from all_tables where owner like :table_owner order by table_name">
+order by t.owner, t.table_name
+
+[Options]
+Connect=False
+Username=
+Password=2309
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2589
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Tables
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+
+
+[CSS]
+

@@ -1,0 +1,176 @@
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.8:
+- New feature: Autopick feature in Compare dialog that 
+  remembers matching file pairs
+- New feature: View/Edit command accessible via the context 
+  menu
+- New feature: Separate Copy and Copy With Padding lines 
+  commands
+- New feature: Windows Vista support
+- Improvement: improved current difference marker
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.7:
+- Bug fix: clicking the ExamDiff status bar always opened 
+  ExamDiff Pro web page
+- New feature: file names in the caption
+- New feature: true-color toolbar
+  
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6n:
+- Bug fix: support for display DPI settings higher than normal 
+  size (96 dpi)
+- New feature: resizable Compare dialog
+- New feature: use of AutoComplete edit controls in Compare 
+  Dialog to help complete file system paths
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6m:
+- Bug fix: multi-monitor support
+- New feature: remember position of the Compare dialog
+- New feature: option to keep the Compare dialog on top of
+  other windows
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6k:
+- New feature: option to change margin size
+- New feature: Windows XP look in XP and higher
+- New feature: support for wheel mouse
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6j:
+- Bug fix: occasional file sharing violation in XP
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6i:
+- Bug fix: copy to clipboard sometimes hung the program
+- New feature: keyboard shortcuts F7 (Previous Diff) and 
+  F8 (Next Diff)
+- New feature: command line option /sd: always show the 
+  Compare dialog, even if two filenames are used
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6h:
+- Bug fix: got rid of "Could not read from file ...: No error"
+  message for empty files
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6g:
+- Bug fix for Windows 2000-style File Open dialog
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6f:
+- Bug fix: Ctrl-E keyboard shortcut didn't work
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6e:
+- Bug fix: it is now possible to call ExamDiff with just one 
+  file name in the command line
+- Bug fix: fixed status bar for large fonts
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6d:
+- Bug fix: pressing Delete caused program to crash
+- Bug fix: UNC names did not work from the command line
+- Bug fix: Copying to clipboard stripped linebreaks
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6a:
+- Bug fix: pressing Delete caused program to crash
+- Bug fix: UNC names did not work from the command line
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.6:
+- New feature: "Ignore leading white space in lines" and 
+  "Ignore trailing white space in lines" options
+- New feature: Toggle Splitter Orientation command (vertical 
+  or horizontal)
+- New feature: Center Splitter command
+- New feature: Toggle Files command
+- New feature: menu
+- New feature: drag and drop support for dropping one or two 
+  files into Compare Dialog
+- New feature: there is no need to specify both filenames -- 
+  just enter a directory name for one of the files to be
+  compared. EximDiff will try to use an entered filename 
+  with a specified directory name
+- Improvement: options to set number of recent files and
+  search strings
+- Improvement: better keyboard support (more shortcuts, 
+  scrolling panes horizontally using left/right keys
+  when focus is on combo box, using Ctrl-Tab to 
+  switch between two panes in single pane display mode)
+- Improvement: synchronized caret movement in file panes
+- Improvement: colored background in status bar
+- Improvement: "Enable Change Notifications" option
+- Improvement: Ln YY, Col XX status text now counts columns
+  by properly expanding tabs where necessary
+- Bug fix: wheel mouse support
+- Bug fix: multiple file change notification messages
+- Bug fix: change notification when ExamDiff is minimized
+- Bug fix: undesired visual effects and insufficient horizontal 
+  scroll size with some fonts
+- Bug fix: insufficient horizontal scroll size for files with 
+  multiple tabs 
+- Bug fix: some fonts (e.g. Terminal) were not saved correctly
+  in the registry between ExamDiff sessions
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.5:
+- New feature: option to set different background colors for
+  added, changed, and deleted lines
+- New feature: Current Difference indicator (yellow triangle)
+  changes its position when user clicks in view panes
+- New feature: automatic detection of file changes and
+notification allowing the user to re-compare files
+- New feature: Show Differences Only option (accessible via
+  toolbar, Options, and command line parameter /d)
+- New feature: line number command option to edit a file 
+  (scroll to and place cursor at a given line in a given editor)
+- Improvement: "Ignore blanks in lines" option has been replaced 
+  with two options: "Ignore white space in lines" and "Ignore 
+  changes in amount of white space in lines"
+- Improvement: better Find (automatically puts the word under 
+  caret into Find dialog), Ctrl-F3 & Ctrl-Shift-F3 handling 
+  (as in MSVC(r))
+- Improvement: colored line numbers
+- Improvement: TAB key handling for switching between controls
+- Improvement: Options property pages
+- Bug fix: handling files with embedded "Ctrl-Z" characters
+- Bug fix: handling Windows large fonts
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.4:
+- New feature: option to treat both files as text files
+- New feature: command line parameters (see Readme.txt for
+  description)
+- New feature: Current Difference toolbar button
+- Improvement: better heuristic for binary/text file detection
+- Bug fix: memory access violation during minimize/restore
+- Bug fix: horizontal auto-scroll added to combo boxes
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.3:
+
+- Improvement: much faster processing
+- Improvement: better text/binary file detection
+- New feature: drag and drop support for copying text from 
+  the comparison panes
+- New feature: drag and drop support for dropping one or two 
+  files into the program's window (e.g. from Windows Explorer)
+- New feature: customizable background color for differences
+- Bug fix: failed to ignore differences in leading blanks with
+  option "Ignore blanks in lines"
+
+//////////////////////////////////////////////////////////////
+CHANGES IN VERSION 1.1:
+
+- New feature: Show Left File, Show Right File, Show Both Files 
+  buttons
+- New feature: persistent find dialog (remembers the most recent
+  searches
+- New feature: handling files, which have lines ending with only 
+  a carriage return (by adding a line feed to them)
+- New feature: replacing part of the file name captions with 
+  ellipses, if necessary, so that the result fits in the rectangle. 
+

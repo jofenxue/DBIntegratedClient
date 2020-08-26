@@ -1,0 +1,102 @@
+PL/SQL Developer Report
+
+[SQL]
+select i.* from all_indexes i
+where i.owner like &<name="Index owner"
+                     hint="The index owner (wildcards allowed)"
+                     type="string"
+                     default="select user from dual"
+                     ifempty="%"
+                     list="select username from all_users order by username">
+and i.index_name like &<name="Index name"
+                        hint="The index name (wildcards allowed)"
+                        type="string"
+                        default="%"
+                        ifempty="%"
+                        list="select index_name from all_indexes where owner like :index_owner order by index_name">
+and i.uniqueness like &<name="Uniqueness"
+                        hint="The uniqueness of the index (wildcards allowed)"
+                        type="string"
+                        default="%"
+                        ifempty="%"
+                        list="%, %, UNIQUE, Unique, NONUNIQUE, ""Non-Unique"""
+                        description="yes">
+and i.table_owner like &<name="Table owner"
+                         hint="The owner of the table of the index (wildcards allowed)"
+                         type="string"
+                         default="select user from dual"
+                         ifempty="%"
+                         list="select username from all_users order by username">
+and i.table_name like &<name="Table name"
+                        hint="The name of the table of the index (wildcards allowed)"
+                        type="string"
+                        default="%"
+                        ifempty="%"
+                        list="select table_name from all_tables where owner like :table_owner order by table_name">
+order by i.owner, i.index_name
+
+[Options]
+Connect=False
+Username=
+Password=2415
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2678
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Indexes
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+
+
+[CSS]
+

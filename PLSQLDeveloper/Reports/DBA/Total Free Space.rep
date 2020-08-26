@@ -1,0 +1,92 @@
+PL/SQL Developer Report
+
+[SQL]
+select s.tablespace_name "Tablespace", 
+       to_char(sum(s.bytes), 'fm999g999g999g999g990') "Space (bytes)"
+from dba_free_space s
+group by s.tablespace_name
+order by s.tablespace_name
+
+[Options]
+Connect=False
+Username=
+Password=2281
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2835
+BkgColor=-2147483643
+BkgImage=
+FormLayout=False
+LeftMargin=0
+TopMargin=0
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Total Free Space
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{*}
+Enabled=True
+Name=Tablespace
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+
+{*}
+Enabled=True
+Name=Space (bytes)
+Description=
+Style=
+HeaderStyle=
+Align=4
+Break=0
+
+
+
+[CSS]
+
